@@ -28,6 +28,7 @@ Python Notes Collections
 3. [Python 贪吃蛇][snake]
 4. [How to write a spell checker][spell]
 5. [用 Python 秒掉八皇后问题][8queen]
+6. [自然语言分词 by Peter Norvig][beau_data]
 
 ## Miscellaneous
 
@@ -78,4 +79,4 @@ Update: Wed Apr 16 17:55:41 EDT 2014
 [optimize]: http://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/
 [functional]: http://www.ibm.com/developerworks/cn/linux/sdk/python/charm-10/index.html
 [8queen]: http://www.iteye.com/topic/106747#3075
-
+[beau_data]: http://norvig.com/ngrams/

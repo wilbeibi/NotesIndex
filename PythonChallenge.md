@@ -54,13 +54,9 @@ Python Challenge
     # retrive answer in text in order
     print ''.join(i for i in text if i in l)
     # Output:   equality
-```
-
 
 
 ## Level 3 ##
-
-
 
     #src: http://www.pythonchallenge.com/pc/def/equality.html
     import requests

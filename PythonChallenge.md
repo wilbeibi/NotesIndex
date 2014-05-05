@@ -57,7 +57,9 @@ Python Challenge
 ```
 
 
+
 ## Level 3 ##
+
 
 
     #src: http://www.pythonchallenge.com/pc/def/equality.html

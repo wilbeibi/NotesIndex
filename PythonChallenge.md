@@ -54,11 +54,9 @@ Python Challenge
     # retrive answer in text in order
     print ''.join(i for i in text if i in l)
     # Output:   equality
-```
 
 
 ## Level 3 ##
-
 
     #src: http://www.pythonchallenge.com/pc/def/equality.html
     import requests
@@ -73,7 +71,7 @@ Python Challenge
     res = re.findall(r'[^A-Z][A-Z]{3}([a-z])[A-Z]{3}[^A-Z]', text)
     print ''.join(res) 
     # Output:   linkedlist
-```
+
 
 ## Level 4 ##
 

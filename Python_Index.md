@@ -19,7 +19,8 @@ Python Notes Collections
 14. [Python 文本处理 by IBM][text]
 15. [Python 代码性能优化技巧 by IBM][optimize]
 16. [可爱的 Python: Python 中的函数编程 by IBM][functional]
-
+17. [*args and **kwargs in python explained][args]
+18. [Python 内建函数用法][built-in]
 
 
 ## Examples
@@ -80,3 +81,5 @@ Update: Wed Apr 16 17:55:41 EDT 2014
 [functional]: http://www.ibm.com/developerworks/cn/linux/sdk/python/charm-10/index.html
 [8queen]: http://www.iteye.com/topic/106747#3075
 [beau_data]: http://norvig.com/ngrams/
+[args]: http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/
+[built-in]: http://blog.csdn.net/starstarstone/article/details/7968185

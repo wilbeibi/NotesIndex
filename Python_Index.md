@@ -41,11 +41,11 @@ Python Notes Collections
 6. [Scipy科学计算][scipy]
 7. [Matplotlib Tutorial][matplotlib]
 8. [Python常见面试题][interview]
-
+9. [Emacs for Python Programming][emacs]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014  
-
+Update: Wed May  7 21:54:10 EDT 2014
 
 
 
@@ -83,3 +83,4 @@ Update: Wed Apr 16 17:55:41 EDT 2014
 [beau_data]: http://norvig.com/ngrams/
 [args]: http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/
 [built-in]: http://blog.csdn.net/starstarstone/article/details/7968185
+[emacs]: http://www.kurup.org/blog/2012/10/24/emacs-for-python-programming/

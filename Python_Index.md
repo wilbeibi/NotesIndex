@@ -21,6 +21,8 @@ Python Notes Collections
 16. [可爱的 Python: Python 中的函数编程 by IBM][functional]
 17. [*args and **kwargs in python explained][args]
 18. [Python 内建函数用法][built-in]
+19. [How does zip(*[iter(s)]*n) work in Python][zip_iter]
+20. [Why Python is Slow: Looking Under the Hood][slow]
 
 
 ## Examples
@@ -42,6 +44,7 @@ Python Notes Collections
 7. [Matplotlib Tutorial][matplotlib]
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
+
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014  
@@ -84,3 +87,5 @@ Update: Wed May  7 21:54:10 EDT 2014
 [args]: http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/
 [built-in]: http://blog.csdn.net/starstarstone/article/details/7968185
 [emacs]: http://www.kurup.org/blog/2012/10/24/emacs-for-python-programming/
+[zip_iter]: http://stackoverflow.com/questions/2233204/how-does-zipitersn-work-in-python
+[slow]: http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/

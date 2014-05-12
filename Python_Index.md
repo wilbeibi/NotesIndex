@@ -44,6 +44,7 @@ Python Notes Collections
 7. [Matplotlib Tutorial][matplotlib]
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
+10. [Python web scraping resource][scrape]
 
 ------
 Author: Wilbeibi  
@@ -89,3 +90,4 @@ Update: Wed May  7 21:54:10 EDT 2014
 [emacs]: http://www.kurup.org/blog/2012/10/24/emacs-for-python-programming/
 [zip_iter]: http://stackoverflow.com/questions/2233204/how-does-zipitersn-work-in-python
 [slow]: http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/
+[scrape]: http://jakeaustwick.me/python-web-scraping-resource/

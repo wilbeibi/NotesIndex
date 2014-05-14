@@ -45,12 +45,15 @@ Python Notes Collections
 7. [Matplotlib Tutorial][matplotlib]
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
-10. [Python web scraping resource][scrape]
+10. [Python web scraping resource][scrape]  
 11. [A Curious Course on Coroutines and Concurrency][cc]
+
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014  
 Update: Wed May  7 21:54:10 EDT 2014
+Update: Wed May 14 04:12:05 EDT 2014
+
 
 
 

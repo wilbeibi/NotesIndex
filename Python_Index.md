@@ -23,6 +23,7 @@ Python Notes Collections
 18. [Python 内建函数用法][built-in]
 19. [How does zip(*[iter(s)]*n) work in Python][zip_iter]
 20. [Why Python is Slow: Looking Under the Hood][slow]
+21. [Bouncing Python's Generators With a Trampoline][tramp]
 
 
 ## Examples
@@ -45,7 +46,7 @@ Python Notes Collections
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
 10. [Python web scraping resource][scrape]
-
+11. [A Curious Course on Coroutines and Concurrency][cc]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014  
@@ -91,3 +92,5 @@ Update: Wed May  7 21:54:10 EDT 2014
 [zip_iter]: http://stackoverflow.com/questions/2233204/how-does-zipitersn-work-in-python
 [slow]: http://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/
 [scrape]: http://jakeaustwick.me/python-web-scraping-resource/
+[tramp]: http://www.usrsb.in/blog/blog/2012/08/12/bouncing-pythons-generators-with-a-trampoline/
+[cc]: http://www.dabeaz.com/coroutines/index.html

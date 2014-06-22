@@ -24,6 +24,7 @@ Python Notes Collections
 19. [How does zip(*[iter(s)]*n) work in Python][zip_iter]
 20. [Why Python is Slow: Looking Under the Hood][slow]
 21. [Bouncing Python's Generators With a Trampoline][tramp]
+22. [A collection of not-so-obvious Python stuff you should know!][n_ob]
 
 
 ## Examples
@@ -97,3 +98,4 @@ Update: Wed May 14 04:12:05 EDT 2014
 [scrape]: http://jakeaustwick.me/python-web-scraping-resource/
 [tramp]: http://www.usrsb.in/blog/blog/2012/08/12/bouncing-pythons-generators-with-a-trampoline/
 [cc]: http://www.dabeaz.com/coroutines/index.html
+[n_ob]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb

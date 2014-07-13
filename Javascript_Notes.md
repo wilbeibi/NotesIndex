@@ -10,7 +10,7 @@
 6. [Javascript继承机制的设计思想][inheritance]
 7. [什么是Event Loop?][event_loop]
 8. [A re-introduction to JavaScript (JS Tutorial)][reintro]
-
+9. [Immediately-Invoked Function Expression (IIFE)][iife]
 
 
 ## Miscellaneous
@@ -30,3 +30,4 @@
 [collection1]:http://jianshu.io/p/7c9aa9508641
 [reintro]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 [debug]: https://developer.chrome.com/devtools/docs/javascript-debugging
+[iife]: http://benalman.com/news/2010/11/immediately-invoked-function-expression/

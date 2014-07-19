@@ -27,6 +27,7 @@ Python Notes Collections
 22. [A collection of not-so-obvious Python stuff you should know!][n_ob]
 23. [What is the python “with” statement designed for?][with]
 24. [Parsing English with 500 lines of Python][parse_eng]
+25. [Python List Comprehension Vs. Map][lc_map]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -56,7 +57,7 @@ Update: Wed Apr 16 17:55:41 EDT 2014
 Update: Wed May  7 21:54:10 EDT 2014  
 Update: Wed May 14 04:12:05 EDT 2014
 Update: Sat Jul 12 13:09:46 EDT 2014
-
+Update: Sat Jul 19 08:56:20 EDT 2014
 
 
 
@@ -102,3 +103,4 @@ Update: Sat Jul 12 13:09:46 EDT 2014
 [n_ob]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb
 [with]: http://stackoverflow.com/questions/3012488/what-is-the-python-with-statement-designed-for
 [parse_eng]: http://honnibal.wordpress.com/2013/12/18/a-simple-fast-algorithm-for-natural-language-dependency-parsing/
+[lc_map]: http://stackoverflow.com/questions/1247486/python-list-comprehension-vs-map

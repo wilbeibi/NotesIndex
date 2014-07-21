@@ -11,6 +11,10 @@
 7. [什么是Event Loop?][event_loop]
 8. [A re-introduction to JavaScript (JS Tutorial)][reintro]
 9. [Immediately-Invoked Function Expression (IIFE)][iife]
+10. [how does Array.prototype.slice.call() work?][slice]
+
+## Nodejs
+1. [Difference between readFile and readFileSync][readfile]
 
 
 ## Miscellaneous
@@ -31,3 +35,5 @@
 [reintro]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 [debug]: https://developer.chrome.com/devtools/docs/javascript-debugging
 [iife]: http://benalman.com/news/2010/11/immediately-invoked-function-expression/
+[slice]: http://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work
+[readfile]: http://stackoverflow.com/questions/17604866/difference-between-readfile-and-readfilesync

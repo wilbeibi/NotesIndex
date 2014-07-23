@@ -36,6 +36,7 @@ Python Notes Collections
 4. [How to write a spell checker][spell]
 5. [用 Python 秒掉八皇后问题][8queen]
 6. [自然语言分词 by Peter Norvig][beau_data]
+7. [Algorithm X in 30 lines!][algoX]
 
 ## Miscellaneous
 
@@ -104,3 +105,4 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 [with]: http://stackoverflow.com/questions/3012488/what-is-the-python-with-statement-designed-for
 [parse_eng]: http://honnibal.wordpress.com/2013/12/18/a-simple-fast-algorithm-for-natural-language-dependency-parsing/
 [lc_map]: http://stackoverflow.com/questions/1247486/python-list-comprehension-vs-map
+[algox]: http://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html

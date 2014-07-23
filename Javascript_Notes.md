@@ -15,7 +15,12 @@
 
 ## Nodejs
 1. [Difference between readFile and readFileSync][readfile]
+2. [module.exports vs exports in nodeJS][exports]
 
+## Libraries
+1. Lodash
+2. chalk
+3. shelljs
 
 ## Miscellaneous
 1. [Javascript 最大堆栈数量][stack_max]
@@ -37,3 +42,4 @@
 [iife]: http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 [slice]: http://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work
 [readfile]: http://stackoverflow.com/questions/17604866/difference-between-readfile-and-readfilesync
+[exports]: http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs

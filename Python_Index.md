@@ -28,6 +28,7 @@ Python Notes Collections
 23. [What is the python “with” statement designed for?][with]
 24. [Parsing English with 500 lines of Python][parse_eng]
 25. [Python List Comprehension Vs. Map][lc_map]
+26. [Key differences between Python 2.7.x and Python 3.x][diff23]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -106,3 +107,4 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 [parse_eng]: http://honnibal.wordpress.com/2013/12/18/a-simple-fast-algorithm-for-natural-language-dependency-parsing/
 [lc_map]: http://stackoverflow.com/questions/1247486/python-list-comprehension-vs-map
 [algox]: http://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html
+[diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb?create=1

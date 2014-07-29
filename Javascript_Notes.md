@@ -12,6 +12,9 @@
 8. [A re-introduction to JavaScript (JS Tutorial)][reintro]
 9. [Immediately-Invoked Function Expression (IIFE)][iife]
 10. [how does Array.prototype.slice.call() work?][slice]
+11. [MDN JavaScript Guide][mdn]
+12. [Inheritance and the prototype chain][chain]
+13. [Working with objects][obj]
 
 ## Nodejs
 1. [Difference between readFile and readFileSync][readfile]
@@ -43,3 +46,6 @@
 [slice]: http://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work
 [readfile]: http://stackoverflow.com/questions/17604866/difference-between-readfile-and-readfilesync
 [exports]: http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nodejs
+[mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+[chain]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
+[obj]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects

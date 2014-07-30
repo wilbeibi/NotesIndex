@@ -55,11 +55,11 @@ Python Notes Collections
 
 ------
 Author: Wilbeibi  
-Update: Wed Apr 16 17:55:41 EDT 2014  
+Update: Wed Apr 16 17:55:41 EDT 2014    
 Update: Wed May  7 21:54:10 EDT 2014  
-Update: Wed May 14 04:12:05 EDT 2014
-Update: Sat Jul 12 13:09:46 EDT 2014
-Update: Sat Jul 19 08:56:20 EDT 2014
+Update: Wed May 14 04:12:05 EDT 2014  
+Update: Sat Jul 12 13:09:46 EDT 2014  
+Update: Sat Jul 19 08:56:20 EDT 2014  
 
 
 

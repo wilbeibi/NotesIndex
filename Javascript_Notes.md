@@ -15,10 +15,14 @@
 11. [MDN JavaScript Guide][mdn]
 12. [Inheritance and the prototype chain][chain]
 13. [Working with objects][obj]
+14. [What does the exclamation mark do before the function?][excla]
+15. [Why do you need to invoke an anonymous function on the same line?][in_an]
+
 
 ## Nodejs
 1. [Difference between readFile and readFileSync][readfile]
 2. [module.exports vs exports in nodeJS][exports]
+3. [How do I get started with Node.js][best_start]
 
 ## Libraries
 1. Lodash
@@ -49,3 +53,6 @@
 [mdn]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 [chain]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
 [obj]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+[excla]: http://stackoverflow.com/questions/3755606/what-does-the-exclamation-mark-do-before-the-function
+[in_an]: http://stackoverflow.com/questions/1140089/why-do-you-need-to-invoke-an-anonymous-function-on-the-same-line
+[best_start]: http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js

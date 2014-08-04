@@ -23,6 +23,7 @@
 1. [Difference between readFile and readFileSync][readfile]
 2. [module.exports vs exports in nodeJS][exports]
 3. [How do I get started with Node.js][best_start]
+4. [Error handling principles for NodeJS + Express apps][errorh]
 
 ## Libraries
 1. Lodash
@@ -56,3 +57,4 @@
 [excla]: http://stackoverflow.com/questions/3755606/what-does-the-exclamation-mark-do-before-the-function
 [in_an]: http://stackoverflow.com/questions/1140089/why-do-you-need-to-invoke-an-anonymous-function-on-the-same-line
 [best_start]: http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+[errorh]: http://stackoverflow.com/questions/7151487/error-handling-principles-for-nodejs-express-apps

@@ -17,6 +17,7 @@
 13. [Working with objects][obj]
 14. [What does the exclamation mark do before the function?][excla]
 15. [Why do you need to invoke an anonymous function on the same line?][in_an]
+16. [how to stop Javascript forEach?][break]
 
 
 ## Nodejs
@@ -24,6 +25,7 @@
 2. [module.exports vs exports in nodeJS][exports]
 3. [How do I get started with Node.js][best_start]
 4. [Error handling principles for NodeJS + Express apps][errorh]
+5. [Understanding Error-First Callbacks][errfirst]
 
 ## Libraries
 1. Lodash
@@ -58,3 +60,5 @@
 [in_an]: http://stackoverflow.com/questions/1140089/why-do-you-need-to-invoke-an-anonymous-function-on-the-same-line
 [best_start]: http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
 [errorh]: http://stackoverflow.com/questions/7151487/error-handling-principles-for-nodejs-express-apps
+[errfirst]: http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/
+[break]: http://stackoverflow.com/questions/6260756/how-to-stop-javascript-foreach

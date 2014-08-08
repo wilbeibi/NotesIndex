@@ -35,6 +35,10 @@
 2. [Github上有趣的js资料][collection1]
 3. [Debugging Javascript][debug]
 
+
+Update: Fri Aug  8 00:03:11 EDT 2014
+
+
 [jslint]: http://jiongks.name/blog/jslint-docs-zh-cn/
 [stack_max]: http://ourjs.com/detail/53a650fa41a7309c4200000e
 [closure]: http://coolshell.cn/articles/6731.html

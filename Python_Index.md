@@ -60,7 +60,7 @@ Update: Wed May  7 21:54:10 EDT 2014
 Update: Wed May 14 04:12:05 EDT 2014  
 Update: Sat Jul 12 13:09:46 EDT 2014  
 Update: Sat Jul 19 08:56:20 EDT 2014  
-
+Update: Sun Aug 10 23:36:46 EDT 2014
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html

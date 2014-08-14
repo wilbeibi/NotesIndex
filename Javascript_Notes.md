@@ -18,6 +18,7 @@
 14. [What does the exclamation mark do before the function?][excla]
 15. [Why do you need to invoke an anonymous function on the same line?][in_an]
 16. [how to stop Javascript forEach?][break]
+17. [JavaScript “this” keyword][jthis]
 
 
 ## Nodejs
@@ -66,4 +67,4 @@ Update: Fri Aug  8 00:03:11 EDT 2014
 [errorh]: http://stackoverflow.com/questions/7151487/error-handling-principles-for-nodejs-express-apps
 [errfirst]: http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/
 [break]: http://stackoverflow.com/questions/6260756/how-to-stop-javascript-foreach
-
+[jthis]: http://stackoverflow.com/questions/3127429/javascript-this-keyword

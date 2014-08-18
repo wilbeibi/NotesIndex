@@ -28,6 +28,7 @@
 4. [Error handling principles for NodeJS + Express apps][errorh]
 5. [Understanding Error-First Callbacks][errfirst]
 6. [Designing Singletons][single]
+7. [How `require()` Actually Works][require]
 
 ## Libraries
 1. Lodash
@@ -70,3 +71,4 @@ Update: Fri Aug  8 00:03:11 EDT 2014
 [break]: http://stackoverflow.com/questions/6260756/how-to-stop-javascript-foreach
 [jthis]: http://stackoverflow.com/questions/3127429/javascript-this-keyword
 [single]: http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/
+[require]: http://fredkschott.com/post/2014/06/require-and-the-module-system/

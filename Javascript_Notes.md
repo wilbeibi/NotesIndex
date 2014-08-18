@@ -27,6 +27,7 @@
 3. [How do I get started with Node.js][best_start]
 4. [Error handling principles for NodeJS + Express apps][errorh]
 5. [Understanding Error-First Callbacks][errfirst]
+6. [Designing Singletons][single]
 
 ## Libraries
 1. Lodash
@@ -68,3 +69,4 @@ Update: Fri Aug  8 00:03:11 EDT 2014
 [errfirst]: http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/
 [break]: http://stackoverflow.com/questions/6260756/how-to-stop-javascript-foreach
 [jthis]: http://stackoverflow.com/questions/3127429/javascript-this-keyword
+[single]: http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/

@@ -29,6 +29,8 @@ Python Notes Collections
 24. [Parsing English with 500 lines of Python][parse_eng]
 25. [Python List Comprehension Vs. Map][lc_map]
 26. [Key differences between Python 2.7.x and Python 3.x][diff23]
+27. [What is a Python egg?][egg1]
+28. [The Internal Structure of Python Eggs][egg2]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -108,3 +110,5 @@ Update: Sun Aug 10 23:36:46 EDT 2014
 [lc_map]: http://stackoverflow.com/questions/1247486/python-list-comprehension-vs-map
 [algox]: http://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html
 [diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb?create=1
+[egg1]: http://stackoverflow.com/questions/2051192/what-is-a-python-egg
+[egg2]: https://pythonhosted.org/setuptools/formats.html

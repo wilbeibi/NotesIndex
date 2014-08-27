@@ -54,6 +54,9 @@ Python Notes Collections
 9. [Emacs for Python Programming][emacs]
 10. [Python web scraping resource][scrape]  
 11. [A Curious Course on Coroutines and Concurrency][cc]
+12. Bool operator priority 
+
+	![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
 
 ------
 Author: Wilbeibi  
@@ -63,7 +66,7 @@ Update: Wed May 14 04:12:05 EDT 2014
 Update: Sat Jul 12 13:09:46 EDT 2014  
 Update: Sat Jul 19 08:56:20 EDT 2014  
 Update: Sun Aug 10 23:36:46 EDT 2014
-
+Update: Wed Aug 27 14:02:59 EDT 2014
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html

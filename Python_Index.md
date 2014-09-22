@@ -31,6 +31,7 @@ Python Notes Collections
 26. [Key differences between Python 2.7.x and Python 3.x][diff23]
 27. [What is a Python egg?][egg1]
 28. [The Internal Structure of Python Eggs][egg2]
+29. [is None vs. ==None][is_equal]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -115,3 +116,4 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 [diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb?create=1
 [egg1]: http://stackoverflow.com/questions/2051192/what-is-a-python-egg
 [egg2]: https://pythonhosted.org/setuptools/formats.html
+[is_equal]: http://stackoverflow.com/questions/3257919/is-none-vs-none

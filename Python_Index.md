@@ -32,6 +32,7 @@ Python Notes Collections
 27. [What is a Python egg?][egg1]
 28. [The Internal Structure of Python Eggs][egg2]
 29. [is None vs. ==None][is_equal]
+30. [Python call function within class][call_call]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -117,3 +118,4 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 [egg1]: http://stackoverflow.com/questions/2051192/what-is-a-python-egg
 [egg2]: https://pythonhosted.org/setuptools/formats.html
 [is_equal]: http://stackoverflow.com/questions/3257919/is-none-vs-none
+[call_call]: http://stackoverflow.com/questions/5615648/python-call-function-within-class

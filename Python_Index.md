@@ -33,6 +33,7 @@ Python Notes Collections
 28. [The Internal Structure of Python Eggs][egg2]
 29. [is None vs. ==None][is_equal]
 30. [Python call function within class][call_call]
+31. [Syntax behind sorted(key=lambda :)][key_lambda]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -119,3 +120,4 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 [egg2]: https://pythonhosted.org/setuptools/formats.html
 [is_equal]: http://stackoverflow.com/questions/3257919/is-none-vs-none
 [call_call]: http://stackoverflow.com/questions/5615648/python-call-function-within-class
+[key_lambda]: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda

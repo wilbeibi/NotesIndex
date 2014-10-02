@@ -61,6 +61,8 @@ Python Notes Collections
 
 	![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
 
+13. [Python Performance Tips][performance]
+
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014    
@@ -121,3 +123,4 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 [is_equal]: http://stackoverflow.com/questions/3257919/is-none-vs-none
 [call_call]: http://stackoverflow.com/questions/5615648/python-call-function-within-class
 [key_lambda]: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
+[performance]: https://wiki.python.org/moin/PythonSpeed/PerformanceTips

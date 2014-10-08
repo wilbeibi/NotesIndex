@@ -35,6 +35,7 @@ Python Notes Collections
 30. [Python call function within class][call_call]
 31. [Syntax behind sorted(key=lambda :)][key_lambda]
 32. [The self variable in python explained][self_]
+33. [How to retrieve an element from a set without removing it?][set_get]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -71,9 +72,9 @@ Update: Wed May  7 21:54:10 EDT 2014
 Update: Wed May 14 04:12:05 EDT 2014  
 Update: Sat Jul 12 13:09:46 EDT 2014  
 Update: Sat Jul 19 08:56:20 EDT 2014  
-Update: Sun Aug 10 23:36:46 EDT 2014
-Update: Wed Aug 27 14:02:59 EDT 2014
-Update: Tue Oct  7 23:16:47 EDT 2014
+Update: Sun Aug 10 23:36:46 EDT 2014  
+Update: Wed Aug 27 14:02:59 EDT 2014  
+Update: Tue Oct  7 23:16:47 EDT 2014  
 
 
 
@@ -129,3 +130,4 @@ Update: Tue Oct  7 23:16:47 EDT 2014
 [key_lambda]: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
 [performance]: https://wiki.python.org/moin/PythonSpeed/PerformanceTips
 [self_]: http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
+[set_get]: http://stackoverflow.com/questions/59825/how-to-retrieve-an-element-from-a-set-without-removing-it

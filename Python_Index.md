@@ -34,6 +34,7 @@ Python Notes Collections
 29. [is None vs. ==None][is_equal]
 30. [Python call function within class][call_call]
 31. [Syntax behind sorted(key=lambda :)][key_lambda]
+32. [The self variable in python explained][self_]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -72,6 +73,9 @@ Update: Sat Jul 12 13:09:46 EDT 2014
 Update: Sat Jul 19 08:56:20 EDT 2014  
 Update: Sun Aug 10 23:36:46 EDT 2014
 Update: Wed Aug 27 14:02:59 EDT 2014
+Update: Tue Oct  7 23:16:47 EDT 2014
+
+
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -124,3 +128,4 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 [call_call]: http://stackoverflow.com/questions/5615648/python-call-function-within-class
 [key_lambda]: http://stackoverflow.com/questions/8966538/syntax-behind-sortedkey-lambda
 [performance]: https://wiki.python.org/moin/PythonSpeed/PerformanceTips
+[self_]: http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/

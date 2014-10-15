@@ -36,6 +36,7 @@ Python Notes Collections
 31. [Syntax behind sorted(key=lambda :)][key_lambda]
 32. [The self variable in python explained][self_]
 33. [How to retrieve an element from a set without removing it?][set_get]
+34. [How to read aloud Python List Comprehensions?][list_com]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -131,3 +132,4 @@ Update: Tue Oct  7 23:16:47 EDT 2014
 [performance]: https://wiki.python.org/moin/PythonSpeed/PerformanceTips
 [self_]: http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
 [set_get]: http://stackoverflow.com/questions/59825/how-to-retrieve-an-element-from-a-set-without-removing-it
+[list_com]: http://stackoverflow.com/questions/9061760/how-to-read-aloud-python-list-comprehensions

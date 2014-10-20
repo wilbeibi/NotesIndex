@@ -65,6 +65,7 @@ Python Notes Collections
 	![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
 
 13. [Python Performance Tips][performance]
+14. [High Performance Python Extensions: Part 1][perf1]
 
 ------
 Author: Wilbeibi  
@@ -133,3 +134,4 @@ Update: Tue Oct  7 23:16:47 EDT 2014
 [self_]: http://freepythontips.wordpress.com/2013/08/07/the-self-variable-in-python-explained/
 [set_get]: http://stackoverflow.com/questions/59825/how-to-retrieve-an-element-from-a-set-without-removing-it
 [list_com]: http://stackoverflow.com/questions/9061760/how-to-read-aloud-python-list-comprehensions
+[perf1]: https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html

@@ -66,6 +66,7 @@ Python Notes Collections
 
 13. [Python Performance Tips][performance]
 14. [High Performance Python Extensions: Part 1][perf1]
+15. [Example Google Style Python Docstrings][Gstyle]
 
 ------
 Author: Wilbeibi  
@@ -77,6 +78,7 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 Update: Sun Aug 10 23:36:46 EDT 2014  
 Update: Wed Aug 27 14:02:59 EDT 2014  
 Update: Tue Oct  7 23:16:47 EDT 2014  
+Update: Wed Oct 22 00:49:30 EDT 2014
 
 
 
@@ -135,3 +137,4 @@ Update: Tue Oct  7 23:16:47 EDT 2014
 [set_get]: http://stackoverflow.com/questions/59825/how-to-retrieve-an-element-from-a-set-without-removing-it
 [list_com]: http://stackoverflow.com/questions/9061760/how-to-read-aloud-python-list-comprehensions
 [perf1]: https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html
+[Gstyle]: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html

@@ -37,6 +37,7 @@ Python Notes Collections
 32. [The self variable in python explained][self_]
 33. [How to retrieve an element from a set without removing it?][set_get]
 34. [How to read aloud Python List Comprehensions?][list_com]
+35. [How collections.defaultdict work][defaultdict]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -138,3 +139,4 @@ Update: Wed Oct 22 00:49:30 EDT 2014
 [list_com]: http://stackoverflow.com/questions/9061760/how-to-read-aloud-python-list-comprehensions
 [perf1]: https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html
 [Gstyle]: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html
+[defaultdict]: http://stackoverflow.com/questions/5900578/how-collections-defaultdict-work

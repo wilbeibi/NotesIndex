@@ -38,7 +38,7 @@ Python Notes Collections
 33. [How to retrieve an element from a set without removing it?][set_get]
 34. [How to read aloud Python List Comprehensions?][list_com]
 35. [How collections.defaultdict work][defaultdict]
-
+36. [使用 Python 进行线程编程][ibm_multi]
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
 2. [如何使用Python编写一个Lisp解释器 by Peter Norvig][lisp]
@@ -140,3 +140,4 @@ Update: Wed Oct 22 00:49:30 EDT 2014
 [perf1]: https://www.crumpington.com/blog/2014/10-19-high-performance-python-extensions-part-1.html
 [Gstyle]: http://sphinxcontrib-napoleon.readthedocs.org/en/latest/example_google.html
 [defaultdict]: http://stackoverflow.com/questions/5900578/how-collections-defaultdict-work
+[ibm_multi]: http://www.ibm.com/developerworks/cn/aix/library/au-threadingpython/

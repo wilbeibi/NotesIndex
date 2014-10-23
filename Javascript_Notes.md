@@ -8,7 +8,7 @@
 4. [Javascript异步编程的4种方法][async]
 5. [Javascript编程风格][style]
 6. [Javascript继承机制的设计思想][inheritance]
-7. [什么是Event Loop?][event_loop]
+7. [什么是Event Loop?][event_loop] 阮老师写错了，勿点
 8. [A re-introduction to JavaScript (JS Tutorial)][reintro]
 9. [Immediately-Invoked Function Expression (IIFE)][iife]
 10. [how does Array.prototype.slice.call() work?][slice]

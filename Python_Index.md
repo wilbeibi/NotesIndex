@@ -50,6 +50,7 @@ Python Notes Collections
 5. [用 Python 秒掉八皇后问题][8queen]
 6. [自然语言分词 by Peter Norvig][beau_data]
 7. [Algorithm X in 30 lines!][algoX]
+8. [500 Lines or Less ☆][500]
 
 ## Miscellaneous
 
@@ -82,8 +83,8 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 Update: Sun Aug 10 23:36:46 EDT 2014  
 Update: Wed Aug 27 14:02:59 EDT 2014  
 Update: Tue Oct  7 23:16:47 EDT 2014  
-Update: Wed Oct 22 00:49:30 EDT 2014
-
+Update: Wed Oct 22 00:49:30 EDT 2014   
+Update: Wed Nov  5 22:07:20 EST 2014  
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -145,3 +146,4 @@ Update: Wed Oct 22 00:49:30 EDT 2014
 [defaultdict]: http://stackoverflow.com/questions/5900578/how-collections-defaultdict-work
 [ibm_multi]: http://www.ibm.com/developerworks/cn/aix/library/au-threadingpython/
 [de_meth]: http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
+[500]: https://github.com/aosabook/500lines

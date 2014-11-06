@@ -72,6 +72,7 @@ Python Notes Collections
 13. [Python Performance Tips][performance]
 14. [High Performance Python Extensions: Part 1][perf1]
 15. [Example Google Style Python Docstrings][Gstyle]
+16. [key differences between Python 2.x and Python 3.x][diff23]
 
 ------
 Author: Wilbeibi  
@@ -147,3 +148,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [ibm_multi]: http://www.ibm.com/developerworks/cn/aix/library/au-threadingpython/
 [de_meth]: http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
 [500]: https://github.com/aosabook/500lines
+[diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb

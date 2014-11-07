@@ -40,6 +40,7 @@ Python Notes Collections
 35. [How collections.defaultdict work][defaultdict]
 36. [使用 Python 进行线程编程][ibm_multi]
 37. [What is the difference between @staticmethod and @classmethod in Python?][de_meth]
+38. [What is \__init__.py for][initpy]
 
 
 ## Examples
@@ -149,3 +150,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [de_meth]: http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python
 [500]: https://github.com/aosabook/500lines
 [diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
+[initpy]: http://stackoverflow.com/questions/448271/what-is-init-py-for

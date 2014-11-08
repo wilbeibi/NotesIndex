@@ -41,6 +41,7 @@ Python Notes Collections
 36. [使用 Python 进行线程编程][ibm_multi]
 37. [What is the difference between @staticmethod and @classmethod in Python?][de_meth]
 38. [What is \__init__.py for][initpy]
+39. [可变的call by reference,不可变的call by value][callby]
 
 
 ## Examples
@@ -151,3 +152,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [500]: https://github.com/aosabook/500lines
 [diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
 [initpy]: http://stackoverflow.com/questions/448271/what-is-init-py-for
+[callby]: http://www.douban.com/note/226827597/

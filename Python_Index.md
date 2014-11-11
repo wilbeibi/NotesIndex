@@ -42,6 +42,7 @@ Python Notes Collections
 37. [What is the difference between @staticmethod and @classmethod in Python?][de_meth]
 38. [What is \__init__.py for][initpy]
 39. [可变的call by reference,不可变的call by value][callby]
+40. [Why does Python assignment not return a value?][noreturn]
 
 
 ## Examples
@@ -153,3 +154,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [diff23]: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
 [initpy]: http://stackoverflow.com/questions/448271/what-is-init-py-for
 [callby]: http://www.douban.com/note/226827597/
+[noreturn]: http://stackoverflow.com/questions/4869770/why-does-python-assignment-not-return-a-value

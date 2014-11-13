@@ -76,6 +76,7 @@ Python Notes Collections
 14. [High Performance Python Extensions: Part 1][perf1]
 15. [Example Google Style Python Docstrings][Gstyle]
 16. [key differences between Python 2.x and Python 3.x][diff23]
+17. [Why isn't Python very good for functional programming?][functional2]
 
 ------
 Author: Wilbeibi  
@@ -155,3 +156,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [initpy]: http://stackoverflow.com/questions/448271/what-is-init-py-for
 [callby]: http://www.douban.com/note/226827597/
 [noreturn]: http://stackoverflow.com/questions/4869770/why-does-python-assignment-not-return-a-value
+[functional2]: http://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming

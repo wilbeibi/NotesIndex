@@ -43,6 +43,7 @@ Python Notes Collections
 38. [What is \__init__.py for][initpy]
 39. [可变的call by reference,不可变的call by value][callby]
 40. [Why does Python assignment not return a value?][noreturn]
+41. [Sort list of list with custom compare function in Python][cus_func]
 
 
 ## Examples
@@ -157,3 +158,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [callby]: http://www.douban.com/note/226827597/
 [noreturn]: http://stackoverflow.com/questions/4869770/why-does-python-assignment-not-return-a-value
 [functional2]: http://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming
+[cus_func]: http://stackoverflow.com/questions/5213033/sort-list-of-list-with-custom-compare-function-in-python

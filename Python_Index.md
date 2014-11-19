@@ -44,6 +44,7 @@ Python Notes Collections
 39. [可变的call by reference,不可变的call by value][callby]
 40. [Why does Python assignment not return a value?][noreturn]
 41. [Sort list of list with custom compare function in Python][cus_func]
+42. [Useful code which uses reduce() in python][reduce_use]
 
 
 ## Examples
@@ -159,3 +160,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [noreturn]: http://stackoverflow.com/questions/4869770/why-does-python-assignment-not-return-a-value
 [functional2]: http://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming
 [cus_func]: http://stackoverflow.com/questions/5213033/sort-list-of-list-with-custom-compare-function-in-python
+[reduce_use]: http://stackoverflow.com/questions/15995/useful-code-which-uses-reduce-in-python

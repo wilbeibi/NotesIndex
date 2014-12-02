@@ -45,6 +45,7 @@ Python Notes Collections
 40. [Why does Python assignment not return a value?][noreturn]
 41. [Sort list of list with custom compare function in Python][cus_func]
 42. [Useful code which uses reduce() in python][reduce_use]
+43. [装饰器与函数式Python][dfp]
 
 
 ## Examples
@@ -56,6 +57,7 @@ Python Notes Collections
 6. [自然语言分词 by Peter Norvig][beau_data]
 7. [Algorithm X in 30 lines!][algoX]
 8. [500 Lines or Less ☆][500]
+
 
 ## Miscellaneous
 
@@ -161,3 +163,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [functional2]: http://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming
 [cus_func]: http://stackoverflow.com/questions/5213033/sort-list-of-list-with-custom-compare-function-in-python
 [reduce_use]: http://stackoverflow.com/questions/15995/useful-code-which-uses-reduce-in-python
+[dfp]: http://youngsterxyf.github.io/2013/01/04/Decorators-and-Functional-Python/

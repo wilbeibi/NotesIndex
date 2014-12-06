@@ -57,6 +57,7 @@ Python Notes Collections
 6. [自然语言分词 by Peter Norvig][beau_data]
 7. [Algorithm X in 30 lines!][algoX]
 8. [500 Lines or Less ☆][500]
+9. [Hidden features of Python ☆][hidd]
 
 
 ## Miscellaneous
@@ -164,3 +165,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [cus_func]: http://stackoverflow.com/questions/5213033/sort-list-of-list-with-custom-compare-function-in-python
 [reduce_use]: http://stackoverflow.com/questions/15995/useful-code-which-uses-reduce-in-python
 [dfp]: http://youngsterxyf.github.io/2013/01/04/Decorators-and-Functional-Python/
+[hidd]: http://stackoverflow.com/questions/101268/hidden-features-of-python

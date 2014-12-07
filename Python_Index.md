@@ -46,6 +46,7 @@ Python Notes Collections
 41. [Sort list of list with custom compare function in Python][cus_func]
 42. [Useful code which uses reduce() in python][reduce_use]
 43. [装饰器与函数式Python][dfp]
+44. [Python Patterns - An Optimization Anecdote][optp]
 
 
 ## Examples
@@ -166,3 +167,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [reduce_use]: http://stackoverflow.com/questions/15995/useful-code-which-uses-reduce-in-python
 [dfp]: http://youngsterxyf.github.io/2013/01/04/Decorators-and-Functional-Python/
 [hidd]: http://stackoverflow.com/questions/101268/hidden-features-of-python
+[optp]: https://www.python.org/doc/essays/list2str/

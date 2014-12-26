@@ -59,6 +59,7 @@ Python Notes Collections
 7. [Algorithm X in 30 lines!][algoX]
 8. [500 Lines or Less ☆][500]
 9. [Hidden features of Python ☆][hidd]
+10. [Are list-comprehensions and functional functions faster than “for loops”?][lcvsfl]
 
 
 ## Miscellaneous
@@ -168,3 +169,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [dfp]: http://youngsterxyf.github.io/2013/01/04/Decorators-and-Functional-Python/
 [hidd]: http://stackoverflow.com/questions/101268/hidden-features-of-python
 [optp]: https://www.python.org/doc/essays/list2str/
+[lcvsfl]: http://stackoverflow.com/questions/22108488/are-list-comprehensions-and-functional-functions-faster-than-for-loops

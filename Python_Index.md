@@ -47,6 +47,7 @@ Python Notes Collections
 42. [Useful code which uses reduce() in python][reduce_use]
 43. [装饰器与函数式Python][dfp]
 44. [Python Patterns - An Optimization Anecdote][optp]
+45. [Python threading multiple bash subprocesses?][thread_sub]
 
 
 ## Examples
@@ -60,6 +61,7 @@ Python Notes Collections
 8. [500 Lines or Less ☆][500]
 9. [Hidden features of Python ☆][hidd]
 10. [Are list-comprehensions and functional functions faster than “for loops”?][lcvsfl]
+
 
 
 ## Miscellaneous
@@ -96,7 +98,8 @@ Update: Sun Aug 10 23:36:46 EDT 2014
 Update: Wed Aug 27 14:02:59 EDT 2014  
 Update: Tue Oct  7 23:16:47 EDT 2014  
 Update: Wed Oct 22 00:49:30 EDT 2014   
-Update: Wed Nov  5 22:07:20 EST 2014  
+Update: Wed Nov  5 22:07:20 EST 2014    
+Update: Mon Dec 29 00:03:49 CST 2014
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -170,3 +173,4 @@ Update: Wed Nov  5 22:07:20 EST 2014
 [hidd]: http://stackoverflow.com/questions/101268/hidden-features-of-python
 [optp]: https://www.python.org/doc/essays/list2str/
 [lcvsfl]: http://stackoverflow.com/questions/22108488/are-list-comprehensions-and-functional-functions-faster-than-for-loops
+[thread_sub]: http://stackoverflow.com/questions/14533458/python-threading-multiple-bash-subprocesses

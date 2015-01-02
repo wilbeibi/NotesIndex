@@ -61,7 +61,7 @@ Python Notes Collections
 8. [500 Lines or Less ☆][500]
 9. [Hidden features of Python ☆][hidd]
 10. [Are list-comprehensions and functional functions faster than “for loops”?][lcvsfl]
-
+11. [What's the difference between these two ways of initializing an array?][init_arr]
 
 
 ## Miscellaneous
@@ -174,3 +174,4 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [optp]: https://www.python.org/doc/essays/list2str/
 [lcvsfl]: http://stackoverflow.com/questions/22108488/are-list-comprehensions-and-functional-functions-faster-than-for-loops
 [thread_sub]: http://stackoverflow.com/questions/14533458/python-threading-multiple-bash-subprocesses
+[init_arr]: http://stackoverflow.com/questions/11336541/whats-the-difference-between-these-two-ways-of-initializing-an-array

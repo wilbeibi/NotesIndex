@@ -48,6 +48,7 @@ Python Notes Collections
 43. [装饰器与函数式Python][dfp]
 44. [Python Patterns - An Optimization Anecdote][optp]
 45. [Python threading multiple bash subprocesses?][thread_sub]
+46. [Any gotchas using unicode_literals in Python 2.6?][unicode_]
 
 
 ## Examples
@@ -177,3 +178,4 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [thread_sub]: http://stackoverflow.com/questions/14533458/python-threading-multiple-bash-subprocesses
 [init_arr]: http://stackoverflow.com/questions/11336541/whats-the-difference-between-these-two-ways-of-initializing-an-array
 [generator_tricks]: http://www.dabeaz.com/generators-uk/index.html
+[unicode_]: http://stackoverflow.com/questions/809796/any-gotchas-using-unicode-literals-in-python-2-6

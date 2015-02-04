@@ -49,6 +49,7 @@ Python Notes Collections
 44. [Python Patterns - An Optimization Anecdote][optp]
 45. [Python threading multiple bash subprocesses?][thread_sub]
 46. [Any gotchas using unicode_literals in Python 2.6?][unicode_]
+47. [A Curious Course on Coroutines and Concurrency][corountines]
 
 
 ## Examples
@@ -63,8 +64,9 @@ Python Notes Collections
 9. [Hidden features of Python ☆][hidd]
 10. [Are list-comprehensions and functional functions faster than “for loops”?][lcvsfl]
 11. [What's the difference between these two ways of initializing an array?][init_arr]
-12. [Generator Tricks for Systems Programmers][generator_tricks]
-
+12. [Generator Tricks for Systems Programmers by DAVE BEAZLEY][generator_tricks]
+13. [A Curious Course on Coroutines and Concurrency by DAVE BEAZLEY][corountines]
+14. [DAVE BEAZLEY's Blog][dave]
 
 ## Miscellaneous
 
@@ -78,7 +80,7 @@ Python Notes Collections
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
 10. [Python web scraping resource][scrape]  
-11. [A Curious Course on Coroutines and Concurrency][cc]
+
 12. Bool operator priority 
 
 	![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
@@ -179,3 +181,5 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [init_arr]: http://stackoverflow.com/questions/11336541/whats-the-difference-between-these-two-ways-of-initializing-an-array
 [generator_tricks]: http://www.dabeaz.com/generators-uk/index.html
 [unicode_]: http://stackoverflow.com/questions/809796/any-gotchas-using-unicode-literals-in-python-2-6
+[corountines]: http://www.dabeaz.com/coroutines/
+[dave]: http://www.dabeaz.com/

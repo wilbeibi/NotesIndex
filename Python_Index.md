@@ -80,10 +80,10 @@ Python Notes Collections
 8. [Python常见面试题][interview]
 9. [Emacs for Python Programming][emacs]
 10. [Python web scraping resource][scrape]  
-
+11. [Powerful network tool: scapy][scapy]
 12. Bool operator priority 
 
-	![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
+    ![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
 
 13. [Python Performance Tips][performance]
 14. [High Performance Python Extensions: Part 1][perf1]
@@ -183,3 +183,4 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [unicode_]: http://stackoverflow.com/questions/809796/any-gotchas-using-unicode-literals-in-python-2-6
 [corountines]: http://www.dabeaz.com/coroutines/
 [dave]: http://www.dabeaz.com/
+[scapy]: http://www.secdev.org/projects/scapy/doc/usage.html

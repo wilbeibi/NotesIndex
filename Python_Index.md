@@ -49,7 +49,6 @@ Python Notes Collections
 44. [Python Patterns - An Optimization Anecdote][optp]
 45. [Python threading multiple bash subprocesses?][thread_sub]
 46. [Any gotchas using unicode_literals in Python 2.6?][unicode_]
-47. [A Curious Course on Coroutines and Concurrency][corountines]
 
 
 ## Examples

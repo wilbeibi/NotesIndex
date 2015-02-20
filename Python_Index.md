@@ -66,6 +66,7 @@ Python Notes Collections
 12. [Generator Tricks for Systems Programmers by DAVE BEAZLEY][generator_tricks]
 13. [A Curious Course on Coroutines and Concurrency by DAVE BEAZLEY][corountines]
 14. [DAVE BEAZLEY's Blog][dave]
+15. [Python Decorator Library][pdl] 
 
 ## Miscellaneous
 
@@ -183,3 +184,4 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [corountines]: http://www.dabeaz.com/coroutines/
 [dave]: http://www.dabeaz.com/
 [scapy]: http://www.secdev.org/projects/scapy/doc/usage.html
+[pdl]: https://wiki.python.org/moin/PythonDecoratorLibrary

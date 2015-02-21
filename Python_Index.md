@@ -49,7 +49,8 @@ Python Notes Collections
 44. [Python Patterns - An Optimization Anecdote][optp]
 45. [Python threading multiple bash subprocesses?][thread_sub]
 46. [Any gotchas using unicode_literals in Python 2.6?][unicode_]
-
+48. [Iterators, Generators and Decorators][igd]
+49. [with 48, Functional Programming in Python][igd2]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -103,7 +104,8 @@ Update: Wed Aug 27 14:02:59 EDT 2014
 Update: Tue Oct  7 23:16:47 EDT 2014  
 Update: Wed Oct 22 00:49:30 EDT 2014   
 Update: Wed Nov  5 22:07:20 EST 2014    
-Update: Mon Dec 29 00:03:49 CST 2014
+Update: Mon Dec 29 00:03:49 CST 2014   
+Update: Sat Feb 21 01:10:24 EST 2015
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -185,3 +187,5 @@ Update: Mon Dec 29 00:03:49 CST 2014
 [dave]: http://www.dabeaz.com/
 [scapy]: http://www.secdev.org/projects/scapy/doc/usage.html
 [pdl]: https://wiki.python.org/moin/PythonDecoratorLibrary
+[igd]: http://www.python-academy.com/download/ep14deco/iter_gen_dec_handout.pdf
+[igd2]: https://www.youtube.com/watch?v=Ta1bAMOMFOI

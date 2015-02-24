@@ -92,6 +92,7 @@ Python Notes Collections
 15. [Example Google Style Python Docstrings][Gstyle]
 16. [key differences between Python 2.x and Python 3.x][diff23]
 17. [Why isn't Python very good for functional programming?][functional2]
+18. [Must-watch videos about Python][pymust]
 
 ------
 Author: Wilbeibi  
@@ -191,3 +192,4 @@ Update: Sat Feb 21 01:10:24 EST 2015
 [igd]: http://www.python-academy.com/download/ep14deco/iter_gen_dec_handout.pdf
 [igd2]: https://www.youtube.com/watch?v=Ta1bAMOMFOI
 [curses]: https://www.youtube.com/watch?v=eN1eZtjLEnU
+[pymust]: https://github.com/s16h/py-must-watch

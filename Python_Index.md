@@ -68,6 +68,7 @@ Python Notes Collections
 13. [A Curious Course on Coroutines and Concurrency by DAVE BEAZLEY][corountines]
 14. [DAVE BEAZLEY's Blog][dave]
 15. [Python Decorator Library][pdl] 
+16. [Use curses, dont swear][curses]
 
 ## Miscellaneous
 
@@ -189,3 +190,4 @@ Update: Sat Feb 21 01:10:24 EST 2015
 [pdl]: https://wiki.python.org/moin/PythonDecoratorLibrary
 [igd]: http://www.python-academy.com/download/ep14deco/iter_gen_dec_handout.pdf
 [igd2]: https://www.youtube.com/watch?v=Ta1bAMOMFOI
+[curses]: https://www.youtube.com/watch?v=eN1eZtjLEnU

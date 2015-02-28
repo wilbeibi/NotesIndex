@@ -51,6 +51,7 @@ Python Notes Collections
 46. [Any gotchas using unicode_literals in Python 2.6?][unicode_]
 48. [Iterators, Generators and Decorators][igd]
 49. [with 48, Functional Programming in Python][igd2]
+50. [Writing 2.x & 3.x Compatible Code][23code]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -193,3 +194,4 @@ Update: Sat Feb 21 01:10:24 EST 2015
 [igd2]: https://www.youtube.com/watch?v=Ta1bAMOMFOI
 [curses]: https://www.youtube.com/watch?v=eN1eZtjLEnU
 [pymust]: https://github.com/s16h/py-must-watch
+[23code]: http://wescpy.blogspot.com/2011/12/writing-2x-3x-compatible-code.html

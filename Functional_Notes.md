@@ -2,7 +2,7 @@
 --------
 
 ## Haskell
-1. [You Could Have Invented Monads! (And Maybe You Already Have.)][monad1]
+1. [You Could Have Invented Monads! (And Maybe You Already Have.)][monad1]  *Carefull: may contains harmful script*
 
 
 

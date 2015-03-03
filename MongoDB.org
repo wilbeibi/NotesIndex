@@ -1,0 +1,130 @@
+#+TITLE: MongoDB Notes
+#+AUTHOR: Wilbeibi
+#+EMAIL: wilbeibi AT gmail DOT com
+#+LANGUAGE: en
+#+OPTIONS: H:2 num:nil toc:t \n:nil @:t ::t |:t ^:nil f:t *:t TeX:t LaTeX:t skip:nil p:nil
+
+* Useful Commands
+  - db.help()
+  - db.COLLCECTION_NAME.find(**).count()
+  - db.stats()  :: show statistics of current database
+  - help
+  - help keys
+  - db :: show current database name
+  - db.COLLCECTION_NAME.findOne() :: Returns one document that satisfies the
+       specified query criteria. If multiple documents satisfy the query, this
+       method returns the first document according to the natural order
+  - avoid print result, add *null;* after the statement;
+  - > use mydb; 
+    > db.dropDatabase();
+  - mongoimport --type csv --headerline weather.csv -d weather -c data
+  - db.example.update({},{$unset: {words:1}},false,true) :: delete word field
+       from doc
+    db.collection.update( criteria, objNew, upsert, multi )
+  - totalIndex
+
+	
+* Mongoose
+** Schema
+   - Define document's style, like struct in C [[http://mongoosejs.com/docs/guide.html][link]]
+** Model
+   - name the schema in databse, like typedef, can pre-initialize value.  [[http://mongoosejs.com/docs/models.html][link]]
+** Problems
+   - statics
+   - [[http://stackoverflow.com/questions/5535610/mongoose-unique-index-not-working][unique index]]
+   - [[http://stackoverflow.com/questions/16209681/what-is-the-difference-between-save-and-insert-in-mongo-db][save VS insert]]
+	 save insert or update a document.
+     insert does only an insertion
+   - get result from mongoose query
+	 mongoose promise
+   - or: https://github.com/olegp/mongo-sync
+
+** find
+   - search more than one field : User.find({name:'wil', score: 80})
+
+** find and remove
+   - [[http://stackoverflow.com/questions/5809788/how-do-i-remove-documents-using-node-js-mongoose][Remove documents using Nodejs]]
+   - FindOneAndRemove
+   - MyModel.remove({search: criteria}, function() {}
+	 
+* Express
+
+* Miscellaneous
+  - one single document should be less than 16M(BSON document size)
+  - upsert (if exists, update, else create)
+  - enable upsert by pass {upsert:true} in update
+  - *denormalization* (in RDBS) improve database reading performance by add redunct data
+  - *durability* http://www.techopedia.com/definition/27416/durability-databases
+  - *Capped Collection* are fixed-size collections, once a collection fills its
+    allocated space, it makes room for new documents by overwriting the oldest
+    documents in the collection.
+  - db is the variable that references the current database. The variable is
+    automatically set to the default database test or is set when you use the
+    use <db> to switch current database.
+  - Cursor: A pointer to the result set of a query. Clients can iterate through
+    a cursor to retrieve results.
+  - GridFS
+  - you cannot have parrael array for multi-key
+  - *compound index* : used in sort and find, leftmost
+	for example, {a:1, b:1, c:1}, find({a:1}), find({a:1, b:1}) use compound
+    index, find({b:1, c:1}) not use, but find({b:1,c:1}).sort({a:1,b:1}) use it
+  - Index Selectivity: 最有区分度的，变化最多的，作为选择
+  - hint : Tell mongodb which index to use
+  - find and sort canot use sparse index(就是不是所有document都有的index)
+  - _id can be a document
+** Types && op
+   - NumberInt
+   - NumberLong
+   - new Date()
+   - mongodb comparision will not cross types
+   - $exists :: find whether a field is exist
+   - $type :: specify whether the value match a type
+   - $regex: Perl style regex (optimization problem)
+   - Dot Notation, find a part of document
+
+	
+** Operations
+   1) $group
+   2) $match
+   3) $project
+   4) $pop:{array_name: -1}  :: pop from left
+   5) db.COLLCECTION_NAME.drop() is more efficient than db.COLLCECTION_NAME.remove({})
+   6) save :: if this doc _id exists, update, otherwise, create one.
+** week2 hw1
+   - db.data.find({"Wind Direction": {$gte: 180, $lte: 360}}, {"State":1, "Temperature":1}).sort({"Temperature":1}).limit(1)
+** week3 hw1
+   - db.students.update({}, {$push: {scores: { $each: [], $sort:{type: 1,
+     score: 1} }}}, {multi: true})
+   - db.students.update({}, {$unset:{'scores.1':1}}, {multi:true})
+   - db.students.update({}, {$pull:{'scores':null}}, {multi:true})
+	 
+** week4 hw3
+   - homepage: db.posts.ensureIndex({ date: -1})
+   - perlink: db.posts.ensureIndex({ permalink: 1}, {unique: true})
+   - pertag: db.posts.ensureIndex({ tags: 1})
+
+** week4 hw4
+   - db.profile.find({op: 'query', ns: 'school2.students'}, {millis: 1, _id: 0}).sort({millis:-1}).limit(1)
+
+** Final
+*** Q1
+    - db.messages.ensureIndex({From:1, To:1})
+    - db.messages.find({ "headers.From": "andrew.fastow@enron.com", "headers.To": "jeff.skilling@enron.com"}).count()
+
+*** Q2
+	-
+* Questions
+   - B Tree
+   - document-level locking 2.8
+   - aggregation framework
+   - sort memory, limit
+   - unwind will generate same _id
+   - assert: command failed: {
+	"errmsg" : "exception: Exceeded memory limit for $group, but didn't allow
+     external sort. Pass allowDiskUse:true to opt in.",
+	"code" : 16945,
+	"ok" : 0
+    } : aggregate failed
+   - index can be use for sort
+   - index has to be maintain, will slow the insert
+   - w = 0, j = 0

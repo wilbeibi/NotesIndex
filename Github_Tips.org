@@ -1,0 +1,77 @@
+
+#+TITLE: Github Tips
+#+AUTHOR: Wilbeibi
+#+EMAIL: wilbeibi AT gmail DOT com
+#+LANGUAGE: en
+#+OPTIONS: H:2 num:nil toc:t \n:nil @:t ::t |:t ^:nil f:t *:t TeX:t LaTeX:t skip:nil p:nil
+
+
+
+* add File
+   git add _Name_
+* edit and Push
+   Directly Edit local file then *commit*, *push*. 
+* How to know where I am
+* change last commit without new push
+   - Change last push
+	git add .
+	git commit --amend
+	git push --force branch
+* delete Remote Item 
+   git rm --cache _Name_
+* get Newest Edition from Web
+   git fetch origin
+
+* push Branch 
+   - git push origin wil_sws
+
+* overwrite one branch to another 
+   - [[http://stackoverflow.com/questions/4624357/git-how-to-overwrite-rather-than-merge-a-branch-on-another-branch][Stackoverflow]]
+   - For example, branch email and staging, copy everything in
+     staging to email and overwrite it.
+
+   $ git checkout email $ git tag old-email-branch # this is optional
+   $ git reset --hard staging $ git merge -s ours origin/email $ git
+   push origin email
+* ignore everything but ...
+   #+BEGIN_SRC sh
+   # Ignore everything
+   *
+   # but
+   !script.pl
+   !.gitignore
+   #+END_SRC 
+* delete branch
+   - git branch -d <branch_name>
+   - git push origin --delete <branch_name> (or git push origin :<branch_name>)
+* roll back
+   - git reflog show (find revision hash)
+   - git checkout <revision> .
+
+* undo a commit
+   - [[http://stackoverflow.com/questions/927358/undo-the-last-git-commit][Stackoverflow anwser]]
+	 - git reset --hard HEAD^1
+	 - edit & commit 
+   or
+     - git rm --cached badfile
+	 - edit & git commit --amend
+
+* manually merge
+  - git pull (will auto merge unconflict parts)
+  - edit conflict file (edit file with <<< >>> )
+  - git add & commit
+* delete remote file
+  - git rm --cached 'merge-*'  : delete remote file start with merge-
+  - git commit & push
+* about git commit -a
+  - '-a' will auto add the modified file which was git add before
+	but for new file, we have to add, or create alias
+
+* git reset
+  - what is head: http://stackoverflow.com/questions/2304087/what-is-git-head-exactly
+  - git reset -hard: http://stackoverflow.com/questions/9529078/git-for-a-beginner-git-reset-hard-head
+  - git reset in plain english: http://stackoverflow.com/questions/2530060/can-you-explain-what-git-reset-does-in-plain-english
+* Tags
+  - *list all tags* git tag -l
+* repo rename
+  - git remote set-url origin new_url

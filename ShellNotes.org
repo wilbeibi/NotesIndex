@@ -1,0 +1,125 @@
+#+TITLE: Shell Programming Notes
+#+LANGUAGE:  en
+#+AUTHOR: Hongyi Shen
+#+EMAIL: wilbeibi@gmail.com
+#+OPTIONS:   H:3 num:t   toc:3 \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:nil
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:   author:t creator:t timestamp:t email:t
+#+DESCRIPTION: A description of how I currently use org-mode
+#+KEYWORDS:  org-mode Emacs organization GTD getting-things-done git
+#+SEQ_TODO: FIXME FIXED
+#+INFOJS_OPT: view:nil toc:t ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+* Basics
+** Pre knowledge
+#+BEGIN_SRC sh
+
+# chmod +rx scriptname
+echo "Here" # A whitespace before '#' in comment
+echo -n $var # echo variable without newline character
+
+hello="A B  C   D"
+echo $hello   # A B C D       (variable reference)
+echo "$hello" # A B  C   D    (variable itself)
+
+if [ -n "${10}" ]  # Parameters > $9 must be enclosed in {brackets}.
+
+arch=$(uname -m) # get current OS's arch
+
+if [ ! -f "$filename" ]   # Quoting $filename allows for possible spaces.
+
+find ~/ -name 'core*' -exec rm {} \;
+# Removes all core dump files from user's home directory.
+
+#+END_SRC 
+   - Ctrl-H
+	 Erases characters back
+   - Bash sets the "integer value" of a string to 0.
+   - $# : number of parameters
+   - $*/$@ : all the positional parameters.  P778
+   - P53 : get keyboard input
+	 
+** Redirect
+#+BEGIN_SRC sh
+1>filename
+   # Redirect stdout to file "filename."
+1>>filename
+   # Redirect and append stdout to file "filename."
+2>filename
+   # Redirect stderr to file "filename."
+2>>filename
+   # Redirect and append stderr to file "filename."
+&>filename
+   # Redirect both stdout and stderr to file "filename."
+   # This operator is now functional, as of Bash 4, final release.
+M>N
+  # "M" is a file descriptor, which defaults to 1, if not explicitly set.
+  # "N" is a filename.
+  # File descriptor "M" is redirect to file "N."
+M>&N
+  # "M" is a file descriptor, which defaults to 1, if not set.
+  # "N" is another file descriptor.
+  # 2>&1 ==> Redirects stderr to stdout. 
+>&j
+# Redirects, by default, file descriptor 1 (stdout) to j. # All stdout gets sent to file pointed to by j.
+#+END_SRC
+   
+* Useful Tips
+  - space do matters
+  - *Sed* almost always runs faster than *awk*
+  - tree ignore by pattern [[http://unix.stackexchange.com/questions/47805/how-do-we-specify-multiple-ignore-patterns-for-tree-command][link]]
+	$tree -I 'node_module*'   to ignore node_modules/
+	
+  - mess stuff
+   #+BEGIN_SRC shell
+   cat {file1,file2,file3} > combined_file
+   # Concatenates the files file1, file2, and file3 into combined_file.
+    
+   cp file22.{txt,backup}
+   # Copies "file22.txt" to "file22.backup"
+    
+   (cd /source/directory && tar cf - . ) | (cd /dest/directory && tar xpvf -)
+   # Move entire file tree from one directory to another 
+   # abs-guide P28
+    
+   echo `date` | pbcopy
+   # get date string into clipboard 
+    
+   read -p "Want to start? (y/n) " res
+   if [ "$res" = "y"]; then
+       # do blah blah
+   else
+       # do blah blah
+   fi
+   #+END_SRC
+	
+	
+* Archieve
+** Create 
+   $tar -cvf filename.tar ./path/file (dir) <--不压缩
+   $tar -zcvf filename.tar.gz ./path/file (dir) <--以 gzip 压缩
+   $tar -jcvf filename.tar.bz2 ./path/file (dir) <--以 bzip2压缩
+** Unzip
+   $tar -xvf filename.tar
+   $tar -zxvf filename.tar.gz <--注意后缀要对应写正确
+   $tar -jxvf filename.tar.bz2
+** tee 
+   - pipe standard output to terminal and new file at same time
+	 ls | tee new_file
+** [[http://superuser.com/questions/46139/what-does-source-do][What does 'source' do?]]
+   - executes the content of the file passed as argument
+** 圖片白色轉透明
+   - mogrify -transparent white image*.png
+** Execute founded files
+   - find . -name "*.pyc" --exec rm -rf {} \; # delete files recursively
+   - find . -name ".DS_Store" -print0 | xargs -0 rm -rf # delete directories
+     recursively  # print0 ensure file name contains space interpreted corretly
+   - find . -depth 1 -name "*.py" --exec cp '{}' ./destination \;
+	 *in OSX, is -exec [only one dash]*
+
+** execute find results
+** colorful less
+   - less file, then press v
+

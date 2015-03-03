@@ -1,0 +1,171 @@
+#+TITLE: The Art of Emacs 
+#+AUTHOR: Wilbeibi
+#+EMAIL: wilbeibi AT gmail DOT com
+#+LANGUAGE: en
+#+OPTIONS: H:2 num:nil toc:t \n:nil @:t ::t |:t ^:nil f:t *:t TeX:t LaTeX:t skip:nil p:nil
+
+
+* Tricks
+   - *M-x flyspell-mode*
+     Online word spell checking, _*M-$* to check current word_
+   - *C-h m*
+     Get help, manual and shortkey of current mode 
+   - *M-x toggle-debug-on-quit* 
+     使用这条命令后，每次卡住后，马上按C-g，
+     就会打出当前执行函数的调用栈，是哪个函数造成的卡住，也就一目了然
+     了。然后根据这个造成卡住的函数属于哪个扩展包，再分别想解决办法
+   - *F5*
+     Goto-line
+   - *M-x load-file ~/.emacs*
+     Modify emacs and make it effect without reboot
+   - *M-x artist-mode*
+     Draw shapes in geek style
+   - *M-x insert-table*
+     Insert the table as you wanted
+   - *C-up/down/left/right*
+     Resize the split window
+   - *C-j*
+     Newline and indent
+   - *C-x z*
+	 repeat last command
+   - *M-x eval-buffer*
+	 load .emacs without restarting it
+   - *M-x dired* to open current file
+   - R to rename
+   - C-x k to (go back to original buffer)
+   - C-c C-e b
+	 publish, export to HTML
+     
+* Navigating & Editing
+   - *M-<* *M->*
+	 Begin of buffer/ End of buffer
+   - *C-v* *M-v*
+     Page Down and Page Up
+   - *C-M-\*
+     Auto typesetting
+   - *C-Backspace*
+     Kill a word backward
+   - *M-x replace _oldstr_ RET _newstr_ VET*
+     replace specific string
+   - *C-h f func_name*
+     Get description of the function
+   - *C-x h*
+     select all
+   - *C-x o*
+     Switch between windows
+   - *M-<* *M->*
+     Move to the head/end of text
+   - *C-L*
+     Move cursor to the center of the window
+   - *M-=*
+     Word count
+   - *C-v* *M-v*
+     PageUp and PageDown
+   - *M-a* *M-e*
+     Head of sentence, tail of sentence
+   - *M-<* *M->*
+     Head or tail of entire buffer
+   - *M-=*
+     Word count
+	 
+* ORG-mode Tips
+** Basic keys
+   - *C-c C-x C-v*
+     View inline picture
+   - *C-c C-t*
+     So, let's mark the _TODO_ item _DONE_ by moving the cursor 
+     onto that line and hitting C-c C-t, which runs the
+     command org-todo.
+   - *C-c C-s*
+     C-c C-s to run _org-schedule_. 
+   - *C-c a t*
+     Press C-c a t to enter the global todo list.
+   - *C-c C-c*
+     Add _tags_ as ordered.
+   - *Description List*  
+     use ‘ :: ’ to separate the term from the description.
+   - *Agenda files*
+     'C-c [' Add current file to the list of agenda files.
+   - *Switch buffers: C-x C-b*
+   - *C-u C-c .* 
+     Insert timestamp
+   - *C-u TAB*
+     Switch Overview/Content/Details
+   - Insert Picture
+	 #+CAPTION: This is the caption for the next figure link (or table)
+     #+NAME:   fig:SED-HR4049
+     Name in it [[]]
+   - Subscripts and superscripts
+	 10^30, R_{sun}
+** Navigating
+   - *C-c C-u* 
+	 up
+   - *C-c C-f/b* 
+	 forward or back in same level
+   - *C-c C-p/n*
+	 jump to previous/next heading
+** GTD
+   - *M-shift-RET*
+     Start a TODO headline.
+   - *S-LEFT/RIGHT*
+     Change states between TODO/DONE/INPROGRESS
+   - *C-c .*
+     Add a timestamp, 'S-LEFT/RIGHT' to change at cursor by one day.
+   - *C-c C-d* 
+     to insert a _DEADLINE_ keyword with a stamp.
+   - *C-c C-s* 
+     Insert a _SCHEDULED_ keyword with a stamp.
+** Mess
+*** Reference
+    [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][David O'Toole Org tutorial]]
+*** Syntax
+    make words *bold*, /italic/ , _underlined_, =code= 
+    and ~verbatim~, and, if you must, ‘+strike-through+’.
+*** insert code
+	- <s tab
+
+* CUA-mode Tips
+  - *M-n*
+    Give column a increase number
+  - *M C-\* or *ESC ESC ESC*
+    Escape mark region
+  - *C-?*
+    Get basic hints
+
+
+
+* Dired
+  - [[http://ergoemacs.org/emacs/file_management.html][Intro to dired]]
+  - *C-x d*
+    Open directory
+  - Cheatlist
+    * q     Close the dir
+    * C     Copy file
+    * R     Rename file
+    * D     Delete file
+    * +     create a new dir
+    * Z     compress/decompress the file by gzip
+    * m     mark a file
+    * u     unmark
+    * U     unmark all marked
+    * % m   mark by pattern (regex)
+    * g     refresh dir listing
+    * ^     go to parent dir
+  - *C-j* 
+    Stop going to deeper directory
+  
+
+
+* Lisp
+  - *C-j*
+    运行Lisp语句
+l
+
+
+
+* Programming
+  - C++ autocomplete: Ctrl+;
+  - tm : insert current time
+  - M-x set-buffer-file-coding-system RET undecided-unix
+
+   

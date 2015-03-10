@@ -94,6 +94,7 @@ Python Notes Collections
 16. [key differences between Python 2.x and Python 3.x][diff23]
 17. [Why isn't Python very good for functional programming?][functional2]
 18. [Must-watch videos about Python][pymust]
+19. [python_articles from Flowerowl][pas]
 
 ------
 Author: Wilbeibi  
@@ -195,3 +196,4 @@ Update: Sat Feb 21 01:10:24 EST 2015
 [curses]: https://www.youtube.com/watch?v=eN1eZtjLEnU
 [pymust]: https://github.com/s16h/py-must-watch
 [23code]: http://wescpy.blogspot.com/2011/12/writing-2x-3x-compatible-code.html
+[pas]: https://github.com/Flowerowl/python_articles

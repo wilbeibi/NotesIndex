@@ -21,6 +21,7 @@
 17. [JavaScript “this” keyword][jthis]
 18. [Principles of Writing Consistent, Idiomatic JavaScript][jstyle]
 19. [Airbnb JavaScript Style Guide][astyle]
+20. [You-Dont-Know-JS][dont]
 
 
 ## Nodejs
@@ -76,3 +77,4 @@ Update: Fri Aug  8 00:03:11 EDT 2014
 [require]: http://fredkschott.com/post/2014/06/require-and-the-module-system/
 [jstyle]: https://github.com/rwaldron/idiomatic.js
 [astyle]: https://github.com/airbnb/javascript
+[dont]: https://github.com/getify/You-Dont-Know-JS

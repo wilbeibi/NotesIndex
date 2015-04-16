@@ -35,12 +35,12 @@ find ~/ -name 'core*' -exec rm {} \;
 
 #+END_SRC 
    - Ctrl-H
-	 Erases characters back
+     Erases characters back
    - Bash sets the "integer value" of a string to 0.
    - $# : number of parameters
    - $*/$@ : all the positional parameters.  P778
    - P53 : get keyboard input
-	 
+     
 ** Redirect
 #+BEGIN_SRC sh
 1>filename
@@ -70,8 +70,8 @@ M>&N
   - space do matters
   - *Sed* almost always runs faster than *awk*
   - tree ignore by pattern [[http://unix.stackexchange.com/questions/47805/how-do-we-specify-multiple-ignore-patterns-for-tree-command][link]]
-	$tree -I 'node_module*'   to ignore node_modules/
-	
+    $tree -I 'node_module*'   to ignore node_modules/
+    
   - mess stuff
    #+BEGIN_SRC shell
    cat {file1,file2,file3} > combined_file
@@ -94,8 +94,8 @@ M>&N
        # do blah blah
    fi
    #+END_SRC
-	
-	
+    
+    
 * Archieve
 ** Create 
    $tar -cvf filename.tar ./path/file (dir) <--不压缩
@@ -107,7 +107,7 @@ M>&N
    $tar -jxvf filename.tar.bz2
 ** tee 
    - pipe standard output to terminal and new file at same time
-	 ls | tee new_file
+     ls | tee new_file
 ** [[http://superuser.com/questions/46139/what-does-source-do][What does 'source' do?]]
    - executes the content of the file passed as argument
 ** 圖片白色轉透明
@@ -117,7 +117,7 @@ M>&N
    - find . -name ".DS_Store" -print0 | xargs -0 rm -rf # delete directories
      recursively  # print0 ensure file name contains space interpreted corretly
    - find . -depth 1 -name "*.py" --exec cp '{}' ./destination \;
-	 *in OSX, is -exec [only one dash]*
+     *in OSX, is -exec [only one dash]*
 
 ** execute find results
 ** colorful less

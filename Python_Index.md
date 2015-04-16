@@ -95,6 +95,8 @@ Python Notes Collections
 17. [Why isn't Python very good for functional programming?][functional2]
 18. [Must-watch videos about Python][pymust]
 19. [python_articles from Flowerowl][pas]
+20. [Python best practices guidebook, written for Humans][human]
+21. [Github: howdoi - instant coding answers via the command line][howdoi]
 
 ------
 Author: Wilbeibi  
@@ -109,7 +111,8 @@ Update: Tue Oct  7 23:16:47 EDT 2014
 Update: Wed Oct 22 00:49:30 EDT 2014   
 Update: Wed Nov  5 22:07:20 EST 2014    
 Update: Mon Dec 29 00:03:49 CST 2014   
-Update: Sat Feb 21 01:10:24 EST 2015
+Update: Sat Feb 21 01:10:24 EST 2015   
+Update: Wed Apr 15 21:32:20 EDT 2015
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -197,3 +200,5 @@ Update: Sat Feb 21 01:10:24 EST 2015
 [pymust]: https://github.com/s16h/py-must-watch
 [23code]: http://wescpy.blogspot.com/2011/12/writing-2x-3x-compatible-code.html
 [pas]: https://github.com/Flowerowl/python_articles
+[human]: https://github.com/kennethreitz/python-guide
+[howdoi]: howdoi - instant coding answers via the command line

@@ -7,7 +7,7 @@
 5. [CIS 194: Introduction to Haskell by Upenn][194]
 6. [Advanced Bash-Scripting Guide][abs]
 7. [Awesome Sysadmin][sysadmin]
-
+8. [masscan: fastest TCP port scanner][masscan]
 
 
 
@@ -20,3 +20,4 @@
 [194]: http://www.cis.upenn.edu/~cis194/spring13/lectures.htmlA
 [abs]: http://tldp.org/LDP/abs/html/ 
 [sysadmin]: https://github.com/n1trux/awesome-sysadmin
+[masscan]: https://github.com/robertdavidgraham/masscan

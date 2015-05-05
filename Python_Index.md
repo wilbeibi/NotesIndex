@@ -201,4 +201,4 @@ Update: Wed Apr 15 21:32:20 EDT 2015
 [23code]: http://wescpy.blogspot.com/2011/12/writing-2x-3x-compatible-code.html
 [pas]: https://github.com/Flowerowl/python_articles
 [human]: https://github.com/kennethreitz/python-guide
-[howdoi]: howdoi - instant coding answers via the command line
+[howdoi]: https://github.com/gleitz/howdoi

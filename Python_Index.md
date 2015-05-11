@@ -96,7 +96,8 @@ Python Notes Collections
 18. [Must-watch videos about Python][pymust]
 19. [python_articles from Flowerowl][pas]
 20. [Python best practices guidebook, written for Humans][human]
-21. [Github: howdoi - instant coding answers via the command line][howdoi]
+21. [Github: howdoi - instant coding answers via the command line][howdoi]  
+22. [Collection of less popular features and tricks for the Python][pytricks]
 
 ------
 Author: Wilbeibi  
@@ -112,8 +113,8 @@ Update: Wed Oct 22 00:49:30 EDT 2014
 Update: Wed Nov  5 22:07:20 EST 2014    
 Update: Mon Dec 29 00:03:49 CST 2014   
 Update: Sat Feb 21 01:10:24 EST 2015   
-Update: Wed Apr 15 21:32:20 EDT 2015
-
+Update: Wed Apr 15 21:32:20 EDT 2015   
+Update: Mon May 11 00:13:00 EDT 2015   
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -202,3 +203,4 @@ Update: Wed Apr 15 21:32:20 EDT 2015
 [pas]: https://github.com/Flowerowl/python_articles
 [human]: https://github.com/kennethreitz/python-guide
 [howdoi]: https://github.com/gleitz/howdoi
+[pytricks]: https://github.com/brennerm/PyTricks

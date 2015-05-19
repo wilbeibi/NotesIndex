@@ -52,7 +52,7 @@ Python Notes Collections
 48. [Iterators, Generators and Decorators][igd]
 49. [with 48, Functional Programming in Python][igd2]
 50. [Writing 2.x & 3.x Compatible Code][23code]
-
+51. [Why is [] faster than list()?][fastlist]
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
 2. [如何使用Python编写一个Lisp解释器 by Peter Norvig][lisp]
@@ -204,3 +204,4 @@ Update: Mon May 11 00:13:00 EDT 2015
 [human]: https://github.com/kennethreitz/python-guide
 [howdoi]: https://github.com/gleitz/howdoi
 [pytricks]: https://github.com/brennerm/PyTricks
+[fastlist]: http://stackoverflow.com/questions/30216000/why-is-faster-than-list

@@ -98,6 +98,7 @@ Python Notes Collections
 20. [Python best practices guidebook, written for Humans][human]
 21. [Github: howdoi - instant coding answers via the command line][howdoi]  
 22. [Collection of less popular features and tricks for the Python][pytricks]
+23. [How to become a proficient Python programmer][howto2]  
 
 ------
 Author: Wilbeibi  
@@ -115,6 +116,7 @@ Update: Mon Dec 29 00:03:49 CST 2014
 Update: Sat Feb 21 01:10:24 EST 2015   
 Update: Wed Apr 15 21:32:20 EDT 2015   
 Update: Mon May 11 00:13:00 EDT 2015   
+Update: Fri May 29 08:51:53 EDT 2015   
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -205,3 +207,4 @@ Update: Mon May 11 00:13:00 EDT 2015
 [howdoi]: https://github.com/gleitz/howdoi
 [pytricks]: https://github.com/brennerm/PyTricks
 [fastlist]: http://stackoverflow.com/questions/30216000/why-is-faster-than-list
+[howto2]: http://blog.dispatched.ch/2011/06/12/how-to-become-a-proficient-python-programmer/

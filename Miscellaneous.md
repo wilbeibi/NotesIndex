@@ -1,13 +1,20 @@
 # Miscellaneous Notes
 ---
+
+### Technical books/papers
+1. [Linux inside][inside]
+2. [CIS 194: Introduction to Haskell by Upenn][194]
+3. [Advanced Bash-Scripting Guide][abs]
+
+### Collections
+1. [Awesome Web Performance Optimization][wpo]
+2. [A List of Programming Screencast Series][screencast]
+3. [Free podcasts and screencasts][free]
+4. [Awesome Sysadmin][sysadmin]
+
+### Repository:
 1. [httpbin: HTTP Request & Response Service][httpbin]
-2. [Awesome Web Performance Optimization][wpo]
-3. [A List of Programming Screencast Series][screencast]
-4. [Free podcasts and screencasts][free]
-5. [CIS 194: Introduction to Haskell by Upenn][194]
-6. [Advanced Bash-Scripting Guide][abs]
-7. [Awesome Sysadmin][sysadmin]
-8. [masscan: fastest TCP port scanner][masscan]
+2. [masscan: fastest TCP port scanner][masscan]
 
 
 
@@ -18,6 +25,7 @@
 [screencast]: http://devblog.avdi.org/2013/06/21/a-list-of-programming-screencast-series/
 [free]: https://github.com/vhf/free-programming-books/blob/master/free-podcasts-screencasts-en.md
 [194]: http://www.cis.upenn.edu/~cis194/spring13/lectures.htmlA
-[abs]: http://tldp.org/LDP/abs/html/ 
+[abs]: http://tldp.org/LDP/abs/html/
 [sysadmin]: https://github.com/n1trux/awesome-sysadmin
 [masscan]: https://github.com/robertdavidgraham/masscan
+[inside]: http://0xax.gitbooks.io/linux-insides/content/index.html

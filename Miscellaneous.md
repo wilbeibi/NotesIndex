@@ -6,6 +6,7 @@
 2. [CIS 194: Introduction to Haskell by Upenn][194]
 3. [Advanced Bash-Scripting Guide][abs]
 4. [MySQL Small Cookbook][mysql]
+5. [软件构建实践 0.1][pm]
 
 ### Collections
 1. [Awesome Web Performance Optimization][wpo]
@@ -13,6 +14,7 @@
 3. [Free podcasts and screencasts][free]
 4. [Awesome Sysadmin][sysadmin]
 5. [Devops Tools][devops]
+
 ### Repository:
 1. [httpbin: HTTP Request & Response Service][httpbin]
 2. [masscan: fastest TCP port scanner][masscan]
@@ -32,3 +34,4 @@
 [inside]: http://0xax.gitbooks.io/linux-insides/content/index.html
 [mysql]: http://andrewliu.tk/2015/05/24/MySQL-Small-Cookbook/
 [devops]: https://devops.zeef.com/christian.peper
+[pm]: http://pm.readthedocs.org/

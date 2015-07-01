@@ -1,6 +1,6 @@
 # Javascript Notes
 ----
-## Knowledge 
+## Knowledge
 1. [JSLint 文档][jslint]
 2. [理解Javascript的闭包][closure]
 3. [学习Javascript闭包（Closure）][closure2]
@@ -32,6 +32,7 @@
 5. [Understanding Error-First Callbacks][errfirst]
 6. [Designing Singletons][single]
 7. [How `require()` Actually Works][require]
+8. [《Node.js 包教不包会》][bao]
 
 ## Libraries
 1. Lodash
@@ -78,3 +79,4 @@ Update: Fri Aug  8 00:03:11 EDT 2014
 [jstyle]: https://github.com/rwaldron/idiomatic.js
 [astyle]: https://github.com/airbnb/javascript
 [dont]: https://github.com/getify/You-Dont-Know-JS
+[bao]: https://github.com/alsotang/node-lessons

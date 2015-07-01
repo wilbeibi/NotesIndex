@@ -3,7 +3,7 @@ Python Notes Collections
 
 ![Alt text](https://www.python.org/static/img/python-logo.png)
 
-1. [“我基础学完了，接下来该学点什么” ][newbie] 
+1. [“我基础学完了，接下来该学点什么” ][newbie]
 2. [Python yield 使用浅析 by IBM][yield]
 3. [Difference between _, __ and __xx__ in Python][__xx__]
 4. [Python修饰器的函数式编程 | 酷 壳][decorator] And [Prime on decorators][decorator2]
@@ -68,7 +68,7 @@ Python Notes Collections
 12. [Generator Tricks for Systems Programmers by DAVE BEAZLEY][generator_tricks]
 13. [A Curious Course on Coroutines and Concurrency by DAVE BEAZLEY][corountines]
 14. [DAVE BEAZLEY's Blog][dave]
-15. [Python Decorator Library][pdl] 
+15. [Python Decorator Library][pdl]
 16. [Use curses, dont swear][curses]
 
 ## Miscellaneous
@@ -84,7 +84,7 @@ Python Notes Collections
 9. [Emacs for Python Programming][emacs]
 10. [Python web scraping resource][scrape]  
 11. [Powerful network tool: scapy][scapy]
-12. Bool operator priority 
+12. Bool operator priority
 
     ![](https://s3.amazonaws.com/Blog_Notes_CDN/python_bool_priority.png)
 
@@ -99,10 +99,11 @@ Python Notes Collections
 21. [Github: howdoi - instant coding answers via the command line][howdoi]  
 22. [Collection of less popular features and tricks for the Python][pytricks]
 23. [How to become a proficient Python programmer][howto2]  
+24. [tqdm: Add a progress meter to your loops in a second][tqdm]
 
 ------
 Author: Wilbeibi  
-Update: Wed Apr 16 17:55:41 EDT 2014    
+Update: Wed Apr 16 17:55:41 EDT 2014
 Update: Wed May  7 21:54:10 EDT 2014  
 Update: Wed May 14 04:12:05 EDT 2014  
 Update: Sat Jul 12 13:09:46 EDT 2014  
@@ -110,13 +111,15 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 Update: Sun Aug 10 23:36:46 EDT 2014  
 Update: Wed Aug 27 14:02:59 EDT 2014  
 Update: Tue Oct  7 23:16:47 EDT 2014  
-Update: Wed Oct 22 00:49:30 EDT 2014   
-Update: Wed Nov  5 22:07:20 EST 2014    
-Update: Mon Dec 29 00:03:49 CST 2014   
-Update: Sat Feb 21 01:10:24 EST 2015   
-Update: Wed Apr 15 21:32:20 EDT 2015   
-Update: Mon May 11 00:13:00 EDT 2015   
-Update: Fri May 29 08:51:53 EDT 2015   
+Update: Wed Oct 22 00:49:30 EDT 2014
+Update: Wed Nov  5 22:07:20 EST 2014
+Update: Mon Dec 29 00:03:49 CST 2014
+Update: Sat Feb 21 01:10:24 EST 2015
+Update: Wed Apr 15 21:32:20 EDT 2015
+Update: Mon May 11 00:13:00 EDT 2015
+Update: Fri May 29 08:51:53 EDT 2015  
+Update: Thu Jun 11 22:01:13 EDT 2015  
+
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -208,3 +211,4 @@ Update: Fri May 29 08:51:53 EDT 2015
 [pytricks]: https://github.com/brennerm/PyTricks
 [fastlist]: http://stackoverflow.com/questions/30216000/why-is-faster-than-list
 [howto2]: http://blog.dispatched.ch/2011/06/12/how-to-become-a-proficient-python-programmer/
+[tqdm]: https://github.com/noamraph/tqdm

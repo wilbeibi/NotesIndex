@@ -53,6 +53,8 @@ Python Notes Collections
 49. [with 48, Functional Programming in Python][igd2]
 50. [Writing 2.x & 3.x Compatible Code][23code]
 51. [Why is [] faster than list()?][fastlist]
+52. [What does ** (double star) and * (star) do for Python parameters?][star_star]
+
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
 2. [如何使用Python编写一个Lisp解释器 by Peter Norvig][lisp]
@@ -212,3 +214,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [fastlist]: http://stackoverflow.com/questions/30216000/why-is-faster-than-list
 [howto2]: http://blog.dispatched.ch/2011/06/12/how-to-become-a-proficient-python-programmer/
 [tqdm]: https://github.com/noamraph/tqdm
+[star_star]: http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-python-parameters

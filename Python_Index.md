@@ -102,7 +102,7 @@ Python Notes Collections
 22. [Collection of less popular features and tricks for the Python][pytricks]
 23. [How to become a proficient Python programmer][howto2]  
 24. [tqdm: Add a progress meter to your loops in a second][tqdm]
-
+25. [BeeWare: The IDEs of Python][pybee]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014
@@ -215,3 +215,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [howto2]: http://blog.dispatched.ch/2011/06/12/how-to-become-a-proficient-python-programmer/
 [tqdm]: https://github.com/noamraph/tqdm
 [star_star]: http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-python-parameters
+[pybee]: http://pybee.org/#

@@ -54,6 +54,7 @@ Python Notes Collections
 50. [Writing 2.x & 3.x Compatible Code][23code]
 51. [Why is [] faster than list()?][fastlist]
 52. [What does ** (double star) and * (star) do for Python parameters?][star_star]
+53. [What is the 'cls' variable used in python classes?][cls]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -216,3 +217,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [tqdm]: https://github.com/noamraph/tqdm
 [star_star]: http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-python-parameters
 [pybee]: http://pybee.org/#
+[cls]: http://stackoverflow.com/questions/4613000/what-is-the-cls-variable-used-in-python-classes

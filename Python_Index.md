@@ -55,6 +55,7 @@ Python Notes Collections
 51. [Why is [] faster than list()?][fastlist]
 52. [What does ** (double star) and * (star) do for Python parameters?][star_star]
 53. [What is the 'cls' variable used in python classes?][cls]
+54. [print unicode dict as it is rather than code points][unicode1]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -218,3 +219,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [star_star]: http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-python-parameters
 [pybee]: http://pybee.org/#
 [cls]: http://stackoverflow.com/questions/4613000/what-is-the-cls-variable-used-in-python-classes
+[unicode1]: http://stackoverflow.com/questions/5648573/python-print-unicode-strings-in-arrays-as-characters-not-code-points

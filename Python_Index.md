@@ -106,6 +106,7 @@ Python Notes Collections
 24. [tqdm: Add a progress meter to your loops in a second][tqdm]
 25. [BeeWare: The IDEs of Python][pybee]
 26. [Python Time complexity][complexity]
+27. [Test with mock][mock]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014
@@ -222,3 +223,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [cls]: http://stackoverflow.com/questions/4613000/what-is-the-cls-variable-used-in-python-classes
 [unicode1]: http://stackoverflow.com/questions/5648573/python-print-unicode-strings-in-arrays-as-characters-not-code-points
 [complexity]: https://wiki.python.org/moin/TimeComplexity
+[mock]: http://pyvideo.org/video/392/pycon-2011--testing-with-mock

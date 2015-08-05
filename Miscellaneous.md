@@ -7,6 +7,7 @@
 3. [Advanced Bash-Scripting Guide][abs]
 4. [MySQL Small Cookbook][mysql]
 5. [软件构建实践 0.1][pm]
+6. [Composing Programs][compose]
 
 ### Collections
 1. [Awesome Web Performance Optimization][wpo]
@@ -37,3 +38,4 @@
 [devops]: https://devops.zeef.com/christian.peper
 [pm]: http://pm.readthedocs.org/
 [async]: http://www.tornadoweb.org/en/stable/guide/async.html
+[compose]: http://www.composingprograms.com/

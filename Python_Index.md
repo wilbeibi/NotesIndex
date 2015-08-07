@@ -56,6 +56,7 @@ Python Notes Collections
 52. [What does ** (double star) and * (star) do for Python parameters?][star_star]
 53. [What is the 'cls' variable used in python classes?][cls]
 54. [print unicode dict as it is rather than code points][unicode1]
+55. [How to get back an overridden python built-in function?][over_builtin]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -224,3 +225,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [unicode1]: http://stackoverflow.com/questions/5648573/python-print-unicode-strings-in-arrays-as-characters-not-code-points
 [complexity]: https://wiki.python.org/moin/TimeComplexity
 [mock]: http://pyvideo.org/video/392/pycon-2011--testing-with-mock
+[over_builtin]: http://stackoverflow.com/questions/20885760/how-to-get-back-an-overridden-python-built-in-function

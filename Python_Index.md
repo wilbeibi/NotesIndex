@@ -57,7 +57,7 @@ Python Notes Collections
 53. [What is the 'cls' variable used in python classes?][cls]
 54. [print unicode dict as it is rather than code points][unicode1]
 55. [How to get back an overridden python built-in function?][over_builtin]
-
+56. [Parallel Programming][parallel]
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
 2. [如何使用Python编写一个Lisp解释器 by Peter Norvig][lisp]
@@ -226,3 +226,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [complexity]: https://wiki.python.org/moin/TimeComplexity
 [mock]: http://pyvideo.org/video/392/pycon-2011--testing-with-mock
 [over_builtin]: http://stackoverflow.com/questions/20885760/how-to-get-back-an-overridden-python-built-in-function
+[parallel]: http://www.composingprograms.com/pages/48-parallel-computing.html

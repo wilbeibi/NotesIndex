@@ -74,7 +74,7 @@ Python Notes Collections
 13. [A Curious Course on Coroutines and Concurrency by DAVE BEAZLEY][corountines]
 14. [DAVE BEAZLEY's Blog][dave]
 15. [Python Decorator Library][pdl]
-16. [Use curses, dont swear][curses]
+16. [Code Like a Pythonista: Idiomatic Python][Idiomatic]
 
 ## Miscellaneous
 
@@ -108,6 +108,7 @@ Python Notes Collections
 25. [BeeWare: The IDEs of Python][pybee]
 26. [Python Time complexity][complexity]
 27. [Test with mock][mock]
+28. [Use curses, dont swear][curses]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014
@@ -227,3 +228,4 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [mock]: http://pyvideo.org/video/392/pycon-2011--testing-with-mock
 [over_builtin]: http://stackoverflow.com/questions/20885760/how-to-get-back-an-overridden-python-built-in-function
 [parallel]: http://www.composingprograms.com/pages/48-parallel-computing.html
+[Idiomatic]: http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html

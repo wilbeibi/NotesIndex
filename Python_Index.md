@@ -59,6 +59,7 @@ Python Notes Collections
 55. [How to get back an overridden python built-in function?][over_builtin]
 56. [Parallel Programming][parallel]
 57. [Decorators the right way][decorators]
+58. [PEP 0 -- Index of Python Enhancement Proposals (PEPs)][pep]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -111,6 +112,7 @@ Python Notes Collections
 26. [Python Time complexity][complexity]
 27. [Test with mock][mock]
 28. [Use curses, dont swear][curses]
+29. [Hitchhiker's Guide to Python (for humans)][human]
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014
@@ -128,8 +130,8 @@ Update: Sat Feb 21 01:10:24 EST 2015
 Update: Wed Apr 15 21:32:20 EDT 2015
 Update: Mon May 11 00:13:00 EDT 2015
 Update: Fri May 29 08:51:53 EDT 2015  
-Update: Thu Jun 11 22:01:13 EDT 2015  
-
+Update: Thu Jun 11 22:01:13 EDT 2015    
+Update: Mon Nov 16 12:58:19 PST 2015   
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -231,4 +233,6 @@ Update: Thu Jun 11 22:01:13 EDT 2015
 [over_builtin]: http://stackoverflow.com/questions/20885760/how-to-get-back-an-overridden-python-built-in-function
 [parallel]: http://www.composingprograms.com/pages/48-parallel-computing.html
 [Idiomatic]: http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
-[decorators]: https://github.com/GrahamDumpleton/wrapt/tree/master/blog 
+[decorators]: https://github.com/GrahamDumpleton/wrapt/tree/master/blog
+[pep]: https://www.python.org/dev/peps/
+[human]: https://github.com/kennethreitz/python-guide

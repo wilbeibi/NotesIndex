@@ -113,6 +113,19 @@ Python Notes Collections
 27. [Test with mock][mock]
 28. [Use curses, dont swear][curses]
 29. [Hitchhiker's Guide to Python (for humans)][human]
+
+## Cheatsheets
+### Virtualwrapper
+1. in ~/.zshrc, add:
+   source /usr/local/bin/virtualenvwrapper.sh
+   export WORKON_HOME=~/Dropbox/Programs/Python/VIRTUAL_ENV
+2. Create environment:
+   mkvirtualenv py_box
+3. Switch to environment:
+   workon py_box
+4. Exit environment:
+   deactivate
+   
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014
@@ -131,7 +144,8 @@ Update: Wed Apr 15 21:32:20 EDT 2015
 Update: Mon May 11 00:13:00 EDT 2015
 Update: Fri May 29 08:51:53 EDT 2015  
 Update: Thu Jun 11 22:01:13 EDT 2015    
-Update: Mon Nov 16 12:58:19 PST 2015   
+Update: Mon Nov 16 12:58:19 PST 2015     
+Update: Sun Dec  6 17:32:34 PST 2015  
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html

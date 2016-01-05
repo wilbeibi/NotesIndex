@@ -113,6 +113,8 @@ Python Notes Collections
 27. [Test with mock][mock]
 28. [Use curses, dont swear][curses]
 29. [Hitchhiker's Guide to Python (for humans)][human]
+30. [The Elements of Python Style][el_style]
+
 
 ## Cheatsheets
 ### Virtualwrapper
@@ -250,3 +252,4 @@ Update: Sun Dec  6 17:32:34 PST 2015
 [decorators]: https://github.com/GrahamDumpleton/wrapt/tree/master/blog
 [pep]: https://www.python.org/dev/peps/
 [human]: https://github.com/kennethreitz/python-guide
+[el_style]: https://github.com/amontalenti/elements-of-python-style

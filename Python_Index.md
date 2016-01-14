@@ -113,8 +113,8 @@ Python Notes Collections
 27. [Test with mock][mock]
 28. [Use curses, dont swear][curses]
 29. [Hitchhiker's Guide to Python (for humans)][human]
-30. [The Elements of Python Style][el_style]
-
+30. [The Elements of Python Style][el_style]  
+31. [Complexity of Python Operations][complexity]
 
 ## Cheatsheets
 ### Virtualwrapper
@@ -148,6 +148,8 @@ Update: Fri May 29 08:51:53 EDT 2015
 Update: Thu Jun 11 22:01:13 EDT 2015    
 Update: Mon Nov 16 12:58:19 PST 2015     
 Update: Sun Dec  6 17:32:34 PST 2015  
+Update: Wed Jan 13 16:47:43 PST 2016   
+
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
 [yield]: http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/index.html
@@ -253,3 +255,4 @@ Update: Sun Dec  6 17:32:34 PST 2015
 [pep]: https://www.python.org/dev/peps/
 [human]: https://github.com/kennethreitz/python-guide
 [el_style]: https://github.com/amontalenti/elements-of-python-style
+[complexity]: https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt

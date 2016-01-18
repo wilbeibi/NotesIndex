@@ -130,7 +130,7 @@ Python Notes Collections
    
 ------
 Author: Wilbeibi  
-Update: Wed Apr 16 17:55:41 EDT 2014
+Update: Wed Apr 16 17:55:41 EDT 2014  
 Update: Wed May  7 21:54:10 EDT 2014  
 Update: Wed May 14 04:12:05 EDT 2014  
 Update: Sat Jul 12 13:09:46 EDT 2014  
@@ -138,12 +138,12 @@ Update: Sat Jul 19 08:56:20 EDT 2014
 Update: Sun Aug 10 23:36:46 EDT 2014  
 Update: Wed Aug 27 14:02:59 EDT 2014  
 Update: Tue Oct  7 23:16:47 EDT 2014  
-Update: Wed Oct 22 00:49:30 EDT 2014
-Update: Wed Nov  5 22:07:20 EST 2014
-Update: Mon Dec 29 00:03:49 CST 2014
-Update: Sat Feb 21 01:10:24 EST 2015
-Update: Wed Apr 15 21:32:20 EDT 2015
-Update: Mon May 11 00:13:00 EDT 2015
+Update: Wed Oct 22 00:49:30 EDT 2014  
+Update: Wed Nov  5 22:07:20 EST 2014  
+Update: Mon Dec 29 00:03:49 CST 2014  
+Update: Sat Feb 21 01:10:24 EST 2015  
+Update: Wed Apr 15 21:32:20 EDT 2015  
+Update: Mon May 11 00:13:00 EDT 2015  
 Update: Fri May 29 08:51:53 EDT 2015  
 Update: Thu Jun 11 22:01:13 EDT 2015    
 Update: Mon Nov 16 12:58:19 PST 2015     

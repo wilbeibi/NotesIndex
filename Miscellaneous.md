@@ -15,11 +15,12 @@
 3. [Free podcasts and screencasts][free]
 4. [Awesome Sysadmin][sysadmin]
 5. [Devops Tools][devops]
+6. [C++ Core Guidelines][core]
 
 ### Repository:
 1. [httpbin: HTTP Request & Response Service][httpbin]
 2. [masscan: fastest TCP port scanner][masscan]
-
+3. [Favico animate][favicojs]
 ### Tornado
 1. [Asynchronous and non-Blocking I/O][async]
 
@@ -39,3 +40,5 @@
 [pm]: http://pm.readthedocs.org/
 [async]: http://www.tornadoweb.org/en/stable/guide/async.html
 [compose]: http://www.composingprograms.com/
+[favicojs]: http://lab.ejci.net/favico.js/
+[core]: https://github.com/isocpp/CppCoreGuidelines 

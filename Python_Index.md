@@ -60,6 +60,7 @@ Python Notes Collections
 56. [Parallel Programming][parallel]
 57. [Decorators the right way][decorators]
 58. [PEP 0 -- Index of Python Enhancement Proposals (PEPs)][pep]
+59. [Extending/Embedding FAQ][extending]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -256,3 +257,4 @@ Update: Wed Jan 13 16:47:43 PST 2016
 [human]: https://github.com/kennethreitz/python-guide
 [el_style]: https://github.com/amontalenti/elements-of-python-style
 [complexity]: https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
+[extending]: https://docs.python.org/2/faq/extending.html 

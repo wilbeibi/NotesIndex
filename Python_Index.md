@@ -63,6 +63,7 @@ Python Notes Collections
 59. [Extending/Embedding FAQ][extending]
 60. [Purpose of star operator when used on List][star_list]
 61. [Python @classmethod and @staticmethod for beginner?][cls_static]
+62. [A Guide to Python's Magic Methods][magics]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -262,3 +263,4 @@ Update: Wed Jan 13 16:47:43 PST 2016
 [extending]: https://docs.python.org/2/faq/extending.html 
 [star_list]: http://stackoverflow.com/questions/8077268/purpose-of-star-operator-when-used-on-list 
 [cls_static]: http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner 
+[magics]: http://www.rafekettler.com/magicmethods.html

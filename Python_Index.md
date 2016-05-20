@@ -64,6 +64,7 @@ Python Notes Collections
 60. [Purpose of star operator when used on List][star_list]
 61. [Python @classmethod and @staticmethod for beginner?][cls_static]
 62. [A Guide to Python's Magic Methods][magics]
+63. [In-memory size of a Python structure][pysize]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -266,3 +267,4 @@ Update: Sat May 14 23:50:28 PDT 2016
 [star_list]: http://stackoverflow.com/questions/8077268/purpose-of-star-operator-when-used-on-list 
 [cls_static]: http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner 
 [magics]: http://www.rafekettler.com/magicmethods.html
+[pysize]: http://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure

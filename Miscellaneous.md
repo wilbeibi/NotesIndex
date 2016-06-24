@@ -8,6 +8,7 @@
 4. [MySQL Small Cookbook][mysql]
 5. [软件构建实践 0.1][pm]
 6. [Composing Programs][compose]
+7. [C++ Core Guidelines][isocpp]
 
 ### Collections
 1. [Awesome Web Performance Optimization][wpo]
@@ -54,4 +55,4 @@
 [Principle]: http://principleformac.com/index.html
 [phabricator]: https://github.com/phacility/phabricator 
 [sentry]: https://getsentry.com/welcome/
-
+[isocpp]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines

@@ -84,6 +84,8 @@ Python Notes Collections
 15. [Python Decorator Library][pdl]
 16. [Code Like a Pythonista: Idiomatic Python][Idiomatic]
 
+
+
 ## Miscellaneous
 
 1. [Python资源#1][coll1]  
@@ -121,6 +123,9 @@ Python Notes Collections
 30. [The Elements of Python Style][el_style]  
 31. [Complexity of Python Operations][complexity]
 
+
+## Flask
+1. [Explore Flask](http://exploreflask.com/en/latest/index.html)
 ## Cheatsheets
 ### Virtualwrapper
 1. in ~/.zshrc, add:
@@ -132,7 +137,7 @@ Python Notes Collections
    workon py_box
 4. Exit environment:
    deactivate
-   
+
 ------
 Author: Wilbeibi  
 Update: Wed Apr 16 17:55:41 EDT 2014  
@@ -155,7 +160,7 @@ Update: Mon Nov 16 12:58:19 PST 2015
 Update: Sun Dec  6 17:32:34 PST 2015  
 Update: Wed Jan 13 16:47:43 PST 2016   
 Update: Sat May 14 23:50:28 PDT 2016    
-
+Update: Tue Jun 28 23:15:48 PDT 2016    
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -263,8 +268,8 @@ Update: Sat May 14 23:50:28 PDT 2016
 [human]: https://github.com/kennethreitz/python-guide
 [el_style]: https://github.com/amontalenti/elements-of-python-style
 [complexity]: https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
-[extending]: https://docs.python.org/2/faq/extending.html 
-[star_list]: http://stackoverflow.com/questions/8077268/purpose-of-star-operator-when-used-on-list 
-[cls_static]: http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner 
+[extending]: https://docs.python.org/2/faq/extending.html
+[star_list]: http://stackoverflow.com/questions/8077268/purpose-of-star-operator-when-used-on-list
+[cls_static]: http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner
 [magics]: http://www.rafekettler.com/magicmethods.html
 [pysize]: http://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure

@@ -65,6 +65,7 @@ Python Notes Collections
 61. [Python @classmethod and @staticmethod for beginner?][cls_static]
 62. [A Guide to Python's Magic Methods][magics]
 63. [In-memory size of a Python structure][pysize]
+64. [Ned Batchelder: Getting Started Testing - PyCon 2014][test0]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -273,3 +274,4 @@ Update: Tue Jun 28 23:15:48 PDT 2016
 [cls_static]: http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner
 [magics]: http://www.rafekettler.com/magicmethods.html
 [pysize]: http://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure
+[test0]: https://www.youtube.com/watch?v=FxSsnHeWQBY

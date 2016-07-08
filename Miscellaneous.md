@@ -34,7 +34,8 @@
 
 
 ### Side Project 百宝箱
-1. [supervisord](http://supervisord.org/)
+1. [Process manager: supervisord](http://supervisord.org/)
+2. [Real-time crash reporting for web app: Sentry](https://getsentry.com/welcome/)
 
 
 

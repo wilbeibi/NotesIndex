@@ -20,6 +20,7 @@
 7. [Form: Prototype 工具][Form]
 8. [Animated and interactive prototype desigin][Principle]
 9. [Sentry: The web’s check engine][sentry]
+10. [CppCon2015][cppcon2015]
 
 ### Repository:
 1. [httpbin: HTTP Request & Response Service][httpbin]
@@ -61,3 +62,4 @@
 [phabricator]: https://github.com/phacility/phabricator
 [sentry]: https://getsentry.com/welcome/
 [isocpp]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+[cppcon2015]: https://github.com/cppcon/cppcon2015

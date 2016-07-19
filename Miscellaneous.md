@@ -9,6 +9,7 @@
 5. [软件构建实践 0.1][pm]
 6. [Composing Programs][compose]
 7. [C++ Core Guidelines][isocpp]
+8. [A beginners guide to writing documentation][write_doc]
 
 ### Collections
 1. [Awesome Web Performance Optimization][wpo]
@@ -62,3 +63,4 @@
 [sentry]: https://getsentry.com/welcome/
 [isocpp]: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 [cppcon2015]: https://github.com/cppcon/cppcon2015
+[write_doc]: http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/

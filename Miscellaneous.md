@@ -27,8 +27,7 @@
 2. [masscan: fastest TCP port scanner][masscan]
 3. [Favico animate][favicojs]
 4. [List of Post-mortems][post-mortems]
-5. [Phabricator: Open software engineering platform and fun
-   adventure[phabricator]
+5. [Phabricator: Open software engineering platform and fun adventure][phabricator]
 
 ### Tornado
 1. [Asynchronous and non-Blocking I/O][async]

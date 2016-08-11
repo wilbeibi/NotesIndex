@@ -66,6 +66,8 @@ Python Notes Collections
 62. [A Guide to Python's Magic Methods][magics]
 63. [In-memory size of a Python structure][pysize]
 64. [Ned Batchelder: Getting Started Testing - PyCon 2014][test0]
+65. [CPython internals: A ten-hour codewalk through the Python interpreter
+    source code][internals]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -275,3 +277,4 @@ Update: Tue Jun 28 23:15:48 PDT 2016
 [magics]: http://www.rafekettler.com/magicmethods.html
 [pysize]: http://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure
 [test0]: https://www.youtube.com/watch?v=FxSsnHeWQBY
+[internals]: http://pgbovine.net/cpython-internals.htm

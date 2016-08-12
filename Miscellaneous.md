@@ -17,11 +17,10 @@
 3. [Free podcasts and screencasts][free]
 4. [Awesome Sysadmin][sysadmin]
 5. [Devops Tools][devops]
-6. [C++ Core Guidelines][core]
-7. [Form: Prototype 工具][Form]
-8. [Animated and interactive prototype desigin][Principle]
-9. [Sentry: The web’s check engine][sentry]
-10. [CppCon2015][cppcon2015]
+6. [Form: Prototype 工具][Form]
+7. [Animated and interactive prototype desigin][Principle]
+8. [Sentry: The web’s check engine][sentry]
+9. [CppCon2015][cppcon2015]
 
 ### Repository:
 1. [httpbin: HTTP Request & Response Service][httpbin]
@@ -55,7 +54,6 @@
 [async]: http://www.tornadoweb.org/en/stable/guide/async.html
 [compose]: http://www.composingprograms.com/
 [favicojs]: http://lab.ejci.net/favico.js/
-[core]: https://github.com/isocpp/CppCoreGuidelines
 [post-mortems]: https://github.com/danluu/post-mortems
 [Form]: http://relativewave.com/form/
 [Principle]: http://principleformac.com/index.html

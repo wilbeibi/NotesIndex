@@ -68,6 +68,7 @@ Python Notes Collections
 64. [Ned Batchelder: Getting Started Testing - PyCon 2014][test0]
 65. [CPython internals: A ten-hour codewalk through the Python interpreter
     source code][internals]
+66. [理解 Python super][super2]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -278,3 +279,4 @@ Update: Tue Jun 28 23:15:48 PDT 2016
 [pysize]: http://stackoverflow.com/questions/1331471/in-memory-size-of-a-python-structure
 [test0]: https://www.youtube.com/watch?v=FxSsnHeWQBY
 [internals]: http://pgbovine.net/cpython-internals.htm
+[super2]: https://laike9m.com/blog/li-jie-python-super,70/

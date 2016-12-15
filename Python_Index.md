@@ -69,6 +69,7 @@ Python Notes Collections
 65. [CPython internals: A ten-hour codewalk through the Python interpreter
     source code][internals]
 66. [理解 Python super][super2]
+67. [Python debugging tips][pydebug]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -280,3 +281,4 @@ Update: Tue Jun 28 23:15:48 PDT 2016
 [test0]: https://www.youtube.com/watch?v=FxSsnHeWQBY
 [internals]: http://pgbovine.net/cpython-internals.htm
 [super2]: https://laike9m.com/blog/li-jie-python-super,70/
+[pydebug]: http://stackoverflow.com/questions/1623039/python-debugging-tips 

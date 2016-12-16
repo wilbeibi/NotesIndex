@@ -69,6 +69,7 @@ Python Notes Collections
 65. [CPython internals: A ten-hour codewalk through the Python interpreter
     source code][internals]
 66. [理解 Python super][super2]
+67. [Python debugging tips][pydebug]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -126,7 +127,7 @@ Python Notes Collections
 29. [Hitchhiker's Guide to Python (for humans)][human]
 30. [The Elements of Python Style][el_style]  
 31. [Complexity of Python Operations][complexity]
-
+32. [traceback usage][traceback]
 
 ## Flask
 1. [Explore Flask](http://exploreflask.com/en/latest/index.html)
@@ -165,6 +166,7 @@ Update: Sun Dec  6 17:32:34 PST 2015
 Update: Wed Jan 13 16:47:43 PST 2016   
 Update: Sat May 14 23:50:28 PDT 2016    
 Update: Tue Jun 28 23:15:48 PDT 2016    
+Update: Thu Dec 15 16:10:05 PST 2016
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -280,3 +282,5 @@ Update: Tue Jun 28 23:15:48 PDT 2016
 [test0]: https://www.youtube.com/watch?v=FxSsnHeWQBY
 [internals]: http://pgbovine.net/cpython-internals.htm
 [super2]: https://laike9m.com/blog/li-jie-python-super,70/
+[pydebug]: http://stackoverflow.com/questions/1623039/python-debugging-tips 
+[traceback]: https://docs.python.org/2/library/traceback.html

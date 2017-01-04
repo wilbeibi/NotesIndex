@@ -88,7 +88,7 @@ Python Notes Collections
 14. [DAVE BEAZLEY's Blog][dave]
 15. [Python Decorator Library][pdl]
 16. [Code Like a Pythonista: Idiomatic Python][Idiomatic]
-
+17. [What does functools.wraps do?][wraps] Keep function information (name, docstring...)
 
 
 ## Miscellaneous
@@ -284,3 +284,4 @@ Update: Thu Dec 15 16:10:05 PST 2016
 [super2]: https://laike9m.com/blog/li-jie-python-super,70/
 [pydebug]: http://stackoverflow.com/questions/1623039/python-debugging-tips 
 [traceback]: https://docs.python.org/2/library/traceback.html
+[wraps]: http://stackoverflow.com/questions/308999/what-does-functools-wraps-do

@@ -70,7 +70,8 @@ Python Notes Collections
     source code][internals]
 66. [理解 Python super][super2]
 67. [Python debugging tips][pydebug]
-68, [Fix "Attempted relative import in non-package"][python.m]
+68. [Fix "Attempted relative import in non-package"][python.m]
+69. [How to make a chain of function decorators?][chain_decorator]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -287,3 +288,4 @@ Update: Thu Dec 15 16:10:05 PST 2016
 [traceback]: https://docs.python.org/2/library/traceback.html
 [wraps]: http://stackoverflow.com/questions/308999/what-does-functools-wraps-do
 [python.m]: http://stackoverflow.com/questions/11536764/how-to-fix-attempted-relative-import-in-non-package-even-with-init-py
+[chain_decorator]: http://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484

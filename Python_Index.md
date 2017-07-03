@@ -130,6 +130,7 @@ Python Notes Collections
 30. [The Elements of Python Style][el_style]  
 31. [Complexity of Python Operations][complexity]
 32. [traceback usage][traceback]
+33. [Celery Task Checklist](http://celerytaskschecklist.com/)
 
 ## Flask
 1. [Explore Flask](http://exploreflask.com/en/latest/index.html)

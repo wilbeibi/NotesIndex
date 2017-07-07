@@ -37,8 +37,9 @@
 #### Infra & DevOps
 1. [Process manager: supervisord](http://supervisord.org/)
 2. [Real-time crash reporting for web app: Sentry](https://getsentry.com/welcome/)
+3. [Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa)
 #### Tools * Libs
-
+1. [Smart CDN: uploadcare](https://uploadcare.com/)
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)
 

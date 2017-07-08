@@ -40,6 +40,7 @@
 3. [Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa)
 #### Tools * Libs
 1. [Smart CDN: uploadcare](https://uploadcare.com/)
+2. [Fontmin: 字体子集化](http://ecomfe.github.io/fontmin/en)
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)
 

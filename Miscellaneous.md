@@ -42,6 +42,7 @@
 1. [Smart CDN: uploadcare](https://uploadcare.com/)
 2. [Fontmin: 字体子集化](http://ecomfe.github.io/fontmin/en)
 3. [Python alfred-workflow SDK](https://github.com/deanishe/alfred-workflow)
+4. [uchardet: An encoding detector library ported from Mozilla](https://github.com/BYVoid/uchardet)
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)
 

@@ -72,6 +72,7 @@ Python Notes Collections
 67. [Python debugging tips][pydebug]
 68. [Fix "Attempted relative import in non-package"][python.m]
 69. [How to make a chain of function decorators?][chain_decorator]
+70. [Class method differences in Python: bound, unbound and static][class_methods]
 
 ## Examples
 1. [Solving Every Sudoku Puzzle by Peter Norvig][sudoku]
@@ -169,7 +170,8 @@ Update: Sun Dec  6 17:32:34 PST 2015
 Update: Wed Jan 13 16:47:43 PST 2016   
 Update: Sat May 14 23:50:28 PDT 2016    
 Update: Tue Jun 28 23:15:48 PDT 2016    
-Update: Thu Dec 15 16:10:05 PST 2016
+Update: Thu Dec 15 16:10:05 PST 2016  
+Update: Mon Aug 28 10:38:48 PDT 2017  
 
 
 [newbie]: http://www.the5fire.com/what-should-i-do-as-newbie.html
@@ -290,3 +292,4 @@ Update: Thu Dec 15 16:10:05 PST 2016
 [wraps]: http://stackoverflow.com/questions/308999/what-does-functools-wraps-do
 [python.m]: http://stackoverflow.com/questions/11536764/how-to-fix-attempted-relative-import-in-non-package-even-with-init-py
 [chain_decorator]: http://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators/1594484#1594484
+[class_methods]: https://stackoverflow.com/questions/114214/class-method-differences-in-python-bound-unbound-and-static

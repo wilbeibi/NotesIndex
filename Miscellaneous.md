@@ -39,6 +39,7 @@
 2. [Real-time crash reporting for web app: Sentry](https://getsentry.com/welcome/)
 3. [Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa)
 4. [Algo wiki](https://github.com/vicky002/AlgoWiki)
+5. [MailChimp vs. Amazon SES](https://coursetro.com/posts/other/95/MailChimp-vs.-Amazon-SES---How-I-Reduced-My-Monthly-Bill-by-92%)
 
 #### Tools * Libs
 1. [Smart CDN: uploadcare](https://uploadcare.com/)

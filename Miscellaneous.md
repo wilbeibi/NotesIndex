@@ -51,6 +51,7 @@
 7. [Spooky: super fast hash algorithm](http://burtleburtle.net/bob/hash/spooky.html)
 8. [CeleryBeat: periodic task](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html)
 9. [Uptimerobot: 定时访问网站](https://uptimerobot.com/)
+10. [Mercury](https://mercury.postlight.com/)
 
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)

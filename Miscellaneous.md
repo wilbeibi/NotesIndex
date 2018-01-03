@@ -52,9 +52,12 @@
 8. [CeleryBeat: periodic task](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html)
 9. [Uptimerobot: 定时访问网站](https://uptimerobot.com/)
 10. [Mercury](https://mercury.postlight.com/)
+11. [Mozilla Common Voice dataset](https://voice.mozilla.org/data)
+12. [Small chat: Talk to your visitors](https://small.chat/)
 
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)
+2. [Algolia: 3rd party search solution $49/month](https://www.algolia.com/)
 
 [httpbin]: https://github.com/Runscope/httpbin
 [wpo]: https://github.com/davidsonfellipe/awesome-wpo

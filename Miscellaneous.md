@@ -54,6 +54,7 @@
 10. [Mercury](https://mercury.postlight.com/)
 11. [Mozilla Common Voice dataset](https://voice.mozilla.org/data)
 12. [Small chat: Talk to your visitors](https://small.chat/)
+13. [Apache Tika: detects and extracts metadata and text from various file types](http://tika.apache.org/)
 
 #### Misc
 1. [99 Designs: 悬赏设计](https://99designs.com/)

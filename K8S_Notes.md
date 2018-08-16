@@ -4,3 +4,4 @@
 ### [Kubernetes By Example](http://kubernetesbyexample.com/)
 ### Kubernetes in Action
 ### [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+### [Kubebuilder Book](https://book.kubebuilder.io/)
